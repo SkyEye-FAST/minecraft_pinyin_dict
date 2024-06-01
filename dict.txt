@@ -1,0 +1,1805 @@
+丁香	ding xiang	1
+三叉戟	san cha ji	1
+下界之星	xia jie zhi xing	1
+下界传送门	xia jie chuan song men	1
+下界合金剑	xia jie he jin jian	1
+下界合金升级	xia jie he jin sheng ji	1
+下界合金块	xia jie he jin kuai	1
+下界合金头盔	xia jie he jin tou kui	1
+下界合金护腿	xia jie he jin hu tui	1
+下界合金斧	xia jie he jin fu	1
+下界合金碎片	xia jie he jin sui pian	1
+下界合金胸甲	xia jie he jin xiong jia	1
+下界合金锄	xia jie he jin chu	1
+下界合金锭	xia jie he jin ding	1
+下界合金锹	xia jie he jin qiao	1
+下界合金镐	xia jie he jin gao	1
+下界合金靴子	xia jie he jin xue zi	1
+下界岩	xia jie yan	1
+下界疣	xia jie you	1
+下界疣块	xia jie you kuai	1
+下界石英	xia jie shi ying	1
+下界石英矿石	xia jie shi ying kuang shi	1
+下界砖	xia jie zhuan	1
+下界砖台阶	xia jie zhuan tai jie	1
+下界砖块	xia jie zhuan kuai	1
+下界砖墙	xia jie zhuan qiang	1
+下界砖栅栏	xia jie zhuan zha lan	1
+下界砖楼梯	xia jie zhuan lou ti	1
+下界苗	xia jie miao	1
+下界荒地	xia jie huang di	1
+下界金矿石	xia jie jin kuang shi	1
+下落的方块	xia luo de fang kuai	1
+不可合成的喷溅型药水	bu ke he cheng de pen jian xing yao shui	1
+不可合成的滞留型药水	bu ke he cheng de zhi liu xing yao shui	1
+不可合成的药水	bu ke he cheng de yao shui	1
+不可合成的药箭	bu ke he cheng de yao jian	1
+不死图腾	bu si tu teng	1
+不祥之兆	bu xiang zhi zhao	1
+不祥之物生成器	bu xiang zhi wu sheng cheng qi	1
+不祥之瓶	bu xiang zhi ping	1
+不祥试炼钥匙	bu xiang shi lian yao shi	1
+丛林	cong lin	1
+丛林原木	cong lin yuan mu	1
+丛林探险家地图	cong lin tan xian jia di tu	1
+丛林木	cong lin mu	1
+丛林木压力板	cong lin mu ya li ban	1
+丛林木台阶	cong lin mu tai jie	1
+丛林木告示牌	cong lin mu gao shi pai	1
+丛林木按钮	cong lin mu an niu	1
+丛林木板	cong lin mu ban	1
+丛林木栅栏	cong lin mu zha lan	1
+丛林木栅栏门	cong lin mu zha lan men	1
+丛林木楼梯	cong lin mu lou ti	1
+丛林木活板门	cong lin mu huo ban men	1
+丛林木船	cong lin mu chuan	1
+丛林木运输船	cong lin mu yun shu chuan	1
+丛林木门	cong lin mu men	1
+丛林树叶	cong lin shu ye	1
+丛林树苗	cong lin shu miao	1
+丛林树苗盆栽	cong lin shu miao pen zai	1
+中型紫晶芽	zhong xing zi jing ya	1
+中毒	zhong du	1
+举臂纹样陶片	ju bi wen yang tao pian	1
+书	shu	1
+书与笔	shu yu bi	1
+书架	shu jia	1
+云杉原木	yun shan yuan mu	1
+云杉木	yun shan mu	1
+云杉木压力板	yun shan mu ya li ban	1
+云杉木台阶	yun shan mu tai jie	1
+云杉木告示牌	yun shan mu gao shi pai	1
+云杉木按钮	yun shan mu an niu	1
+云杉木板	yun shan mu ban	1
+云杉木栅栏	yun shan mu zha lan	1
+云杉木栅栏门	yun shan mu zha lan men	1
+云杉木楼梯	yun shan mu lou ti	1
+云杉木活板门	yun shan mu huo ban men	1
+云杉木船	yun shan mu chuan	1
+云杉木运输船	yun shan mu yun shu chuan	1
+云杉木门	yun shan mu men	1
+云杉树叶	yun shan shu ye	1
+云杉树苗	yun shan shu miao	1
+云杉树苗盆栽	yun shan shu miao pen zai	1
+亡灵杀手	wang ling sha shou	1
+交互实体	jiao hu shi ti	1
+仙人掌	xian ren zhang	1
+仙人掌盆栽	xian ren zhang pen zai	1
+伤害之箭	shang hai zhi jian	1
+伤害吸收	shang hai xi shou	1
+伤害药水	shang hai yao shui	1
+佳酿纹样陶片	jia niang wen yang tao pian	1
+侦测器	zhen ce qi	1
+保护	bao hu	1
+信标	xin biao	1
+僵尸	jiang shi	1
+僵尸刷怪蛋	jiang shi shua guai dan	1
+僵尸村民	jiang shi cun min	1
+僵尸村民刷怪蛋	jiang shi cun min shua guai dan	1
+僵尸猪灵	jiang shi zhu ling	1
+僵尸猪灵刷怪蛋	jiang shi zhu ling shua guai dan	1
+僵尸疣猪兽	jiang shi you zhu shou	1
+僵尸疣猪兽刷怪蛋	jiang shi you zhu shou shua guai dan	1
+僵尸的头	jiang shi de tou	1
+僵尸马	jiang shi ma	1
+僵尸马刷怪蛋	jiang shi ma shua guai dan	1
+光源方块	guang yuan fang kuai	1
+光灵箭	guang ling jian	1
+兔子	tu zi	1
+兔子刷怪蛋	tu zi shua guai dan	1
+兔子皮	tu zi pi	1
+兔子脚	tu zi jiao	1
+兔肉煲	tu rou bao	1
+兰花	lan hua	1
+兰花盆栽	lan hua pen zai	1
+再生之箭	zai sheng zhi jian	1
+再生药水	zai sheng yao shui	1
+冰	bing	1
+冰冻深海	bing dong shen hai	1
+冰刺之地	bing ci zhi di	1
+冰封山峰	bing feng shan feng	1
+冰霜行者	bing shuang xing zhe	1
+冲击	chong ji	1
+冷水海洋	leng shui hai yang	1
+冷水深海	leng shui shen hai	1
+冻河	dong he	1
+冻洋	dong yang	1
+凋灵	diao ling	1
+凋灵之首	diao ling zhi shou	1
+凋灵刷怪蛋	diao ling shua guai dan	1
+凋灵玫瑰	diao ling mei gui	1
+凋灵玫瑰盆栽	diao ling mei gui pen zai	1
+凋灵骷髅	diao ling ku lou	1
+凋灵骷髅刷怪蛋	diao ling ku lou shua guai dan	1
+凋灵骷髅头颅	diao ling ku lou tou lu	1
+凋零	diao ling	1
+凝灰岩	ning hui yan	1
+凝灰岩台阶	ning hui yan tai jie	1
+凝灰岩墙	ning hui yan qiang	1
+凝灰岩楼梯	ning hui yan lou ti	1
+凝灰岩砖	ning hui yan zhuan	1
+凝灰岩砖台阶	ning hui yan zhuan tai jie	1
+凝灰岩砖墙	ning hui yan zhuan qiang	1
+凝灰岩砖楼梯	ning hui yan zhuan lou ti	1
+击退	ji tui	1
+切制砂岩	qie zhi sha yan	1
+切制砂岩台阶	qie zhi sha yan tai jie	1
+切制红砂岩	qie zhi hong sha yan	1
+切制红砂岩台阶	qie zhi hong sha yan tai jie	1
+切制铜台阶	qie zhi tong tai jie	1
+切制铜块	qie zhi tong kuai	1
+切制铜楼梯	qie zhi tong lou ti	1
+切石机	qie shi ji	1
+利刃纹样陶片	li ren wen yang tao pian	1
+刮削纹样陶片	gua xiao wen yang tao pian	1
+制图台	zhi tu tai	1
+制箭台	zhi jian tai	1
+刷子	shua zi	1
+刷怪笼	shua guai long	1
+刷怪笼矿车	shua guai long kuang che	1
+剧毒之箭	ju du zhi jian	1
+剧毒药水	ju du yao shui	1
+剪刀	jian dao	1
+力量	li liang	1
+力量之箭	li liang zhi jian	1
+力量药水	li liang yao shui	1
+动力矿车	dong li kuang che	1
+动力铁轨	dong li tie gui	1
+劫掠兽	jie lve shou	1
+劫掠兽刷怪蛋	jie lve shou shua guai dan	1
+北极熊	bei ji xiong	1
+北极熊刷怪蛋	bei ji xiong shua guai dan	1
+区域效果云	qu yu xiao guo yun	1
+南瓜	nan gua	1
+南瓜派	nan gua pai	1
+南瓜灯	nan gua deng	1
+南瓜种子	nan gua zhong zi	1
+南瓜茎	nan gua jing	1
+卫道士	wei dao shi	1
+卫道士刷怪蛋	wei dao shi shua guai dan	1
+危机纹样陶片	wei ji wen yang tao pian	1
+原始云杉针叶林	yuan shi yun shan zhen ye lin	1
+原始松木针叶林	yuan shi song mu zhen ye lin	1
+原始桦木森林	yuan shi hua mu sen lin	1
+去皮丛林原木	qu pi cong lin yuan mu	1
+去皮丛林木	qu pi cong lin mu	1
+去皮云杉原木	qu pi yun shan yuan mu	1
+去皮云杉木	qu pi yun shan mu	1
+去皮樱花原木	qu pi ying hua yuan mu	1
+去皮樱花木	qu pi ying hua mu	1
+去皮橡木	qu pi xiang mu	1
+去皮橡木原木	qu pi xiang mu yuan mu	1
+去皮深色橡木	qu pi shen se xiang mu	1
+去皮深色橡木原木	qu pi shen se xiang mu yuan mu	1
+去皮白桦原木	qu pi bai hua yuan mu	1
+去皮白桦木	qu pi bai hua mu	1
+去皮竹块	qu pi zhu kuai	1
+去皮红树原木	qu pi hong shu yuan mu	1
+去皮红树木	qu pi hong shu mu	1
+去皮绯红菌柄	qu pi fei hong jun bing	1
+去皮绯红菌核	qu pi fei hong jun he	1
+去皮诡异菌柄	qu pi gui yi jun bing	1
+去皮诡异菌核	qu pi gui yi jun he	1
+去皮金合欢原木	qu pi jin he huan yuan mu	1
+去皮金合欢木	qu pi jin he huan mu	1
+反胃	fan wei	1
+发光	fa guang	1
+发光地衣	fa guang di yi	1
+发光浆果	fa guang jiang guo	1
+发光鱿鱼	fa guang you yu	1
+发光鱿鱼刷怪蛋	fa guang you yu shua guai dan	1
+发射器	fa she qi	1
+发酵蛛眼	fa jiao zhu yan	1
+可可果	ke ke guo	1
+可可豆	ke ke dou	1
+可疑的沙子	ke yi de sha zi	1
+可疑的沙砾	ke yi de sha li	1
+史莱姆	shi lai mu	1
+史莱姆刷怪蛋	shi lai mu shua guai dan	1
+合成器	he cheng qi	1
+向导盔甲纹饰	xiang dao kui jia wen shi	1
+向日葵	xiang ri kui	1
+向日葵平原	xiang ri kui ping yuan	1
+告示牌	gao shi pai	1
+命令方块	ming ling fang kuai	1
+命令方块矿车	ming ling fang kuai kuang che	1
+命名牌	ming ming pai	1
+品红色地毯	pin hong se di tan	1
+品红色带釉陶瓦	pin hong se dai you tao wa	1
+品红色床	pin hong se chuang	1
+品红色旗帜	pin hong se qi zhi	1
+品红色染料	pin hong se ran liao	1
+品红色染色玻璃	pin hong se ran se bo li	1
+品红色染色玻璃板	pin hong se ran se bo li ban	1
+品红色混凝土	pin hong se hun ning tu	1
+品红色混凝土粉末	pin hong se hun ning tu fen mo	1
+品红色潜影盒	pin hong se qian ying he	1
+品红色羊毛	pin hong se yang mao	1
+品红色蜡烛	pin hong se la zhu	1
+品红色陶瓦	pin hong se tao wa	1
+哞菇	mou gu	1
+哞菇刷怪蛋	mou gu shua guai dan	1
+哨兵盔甲纹饰	shao bing kui jia wen shi	1
+哭泣的黑曜石	ku qi de hei yao shi	1
+唤魔者	huan mo zhe	1
+唤魔者刷怪蛋	huan mo zhe shua guai dan	1
+唤魔者尖牙	huan mo zhe jian ya	1
+唱片机	chang pian ji	1
+唱片残片	chang pian can pian	1
+喷溅之箭	pen jian zhi jian	1
+喷溅型伤害药水	pen jian xing shang hai yao shui	1
+喷溅型再生药水	pen jian xing zai sheng yao shui	1
+喷溅型剧毒药水	pen jian xing ju du yao shui	1
+喷溅型力量药水	pen jian xing li liang yao shui	1
+喷溅型夜视药水	pen jian xing ye shi yao shui	1
+喷溅型平凡的药水	pen jian xing ping fan de yao shui	1
+喷溅型幸运药水	pen jian xing xing yun yao shui	1
+喷溅型抗火药水	pen jian xing kang huo yao shui	1
+喷溅型水瓶	pen jian xing shui ping	1
+喷溅型水肺药水	pen jian xing shui fei yao shui	1
+喷溅型治疗药水	pen jian xing zhi liao yao shui	1
+喷溅型浓稠的药水	pen jian xing nong chou de yao shui	1
+喷溅型渗浆药水	pen jian xing shen jiang yao shui	1
+喷溅型盘丝药水	pen jian xing pan si yao shui	1
+喷溅型神龟药水	pen jian xing shen gui yao shui	1
+喷溅型粗制的药水	pen jian xing cu zhi de yao shui	1
+喷溅型缓降药水	pen jian xing huan jiang yao shui	1
+喷溅型蓄风药水	pen jian xing xu feng yao shui	1
+喷溅型虚弱药水	pen jian xing xu ruo yao shui	1
+喷溅型虫蚀药水	pen jian xing chong shi yao shui	1
+喷溅型跳跃药水	pen jian xing tiao yue yao shui	1
+喷溅型迅捷药水	pen jian xing xun jie yao shui	1
+喷溅型迟缓药水	pen jian xing chi huan yao shui	1
+喷溅型隐身药水	pen jian xing yin shen yao shui	1
+喷溅型飘浮药水	pen jian xing piao fu yao shui	1
+喷溅药水	pen jian yao shui	1
+嗅探兽	xiu tan shou	1
+嗅探兽刷怪蛋	xiu tan shou shua guai dan	1
+嗅探兽蛋	xiu tan shou dan	1
+嗅探纹样陶片	xiu tan wen yang tao pian	1
+回响碎片	hui xiang sui pian	1
+圆石	yuan shi	1
+圆石台阶	yuan shi tai jie	1
+圆石墙	yuan shi qiang	1
+圆石楼梯	yuan shi lou ti	1
+土径	tu jing	1
+地图	di tu	1
+垂根	chui gen	1
+垂泪藤	chui lei teng	1
+垂泪藤植株	chui lei teng zhi zhu	1
+垂钓纹样陶片	chui diao wen yang tao pian	1
+基岩	ji yan	1
+堆肥桶	dui fei tong	1
+塑造盔甲纹饰	su zao kui jia wen shi	1
+墙上的丛林木告示牌	qiang shang de cong lin mu gao shi pai	1
+墙上的云杉木告示牌	qiang shang de yun shan mu gao shi pai	1
+墙上的僵尸的头	qiang shang de jiang shi de tou	1
+墙上的凋灵骷髅头颅	qiang shang de diao ling ku lou tou lu	1
+墙上的失活气泡珊瑚扇	qiang shang de shi huo qi pao shan hu shan	1
+墙上的失活火珊瑚扇	qiang shang de shi huo huo shan hu shan	1
+墙上的失活管珊瑚扇	qiang shang de shi huo guan shan hu shan	1
+墙上的失活脑纹珊瑚扇	qiang shang de shi huo nao wen shan hu shan	1
+墙上的失活鹿角珊瑚扇	qiang shang de shi huo lu jiao shan hu shan	1
+墙上的悬挂式丛林木告示牌	qiang shang de xuan gua shi cong lin mu gao shi pai	1
+墙上的悬挂式云杉木告示牌	qiang shang de xuan gua shi yun shan mu gao shi pai	1
+墙上的悬挂式樱花木告示牌	qiang shang de xuan gua shi ying hua mu gao shi pai	1
+墙上的悬挂式橡木告示牌	qiang shang de xuan gua shi xiang mu gao shi pai	1
+墙上的悬挂式深色橡木告示牌	qiang shang de xuan gua shi shen se xiang mu gao shi pai	1
+墙上的悬挂式白桦木告示牌	qiang shang de xuan gua shi bai hua mu gao shi pai	1
+墙上的悬挂式竹告示牌	qiang shang de xuan gua shi zhu gao shi pai	1
+墙上的悬挂式红树木告示牌	qiang shang de xuan gua shi hong shu mu gao shi pai	1
+墙上的悬挂式绯红木告示牌	qiang shang de xuan gua shi fei hong mu gao shi pai	1
+墙上的悬挂式诡异木告示牌	qiang shang de xuan gua shi gui yi mu gao shi pai	1
+墙上的悬挂式金合欢木告示牌	qiang shang de xuan gua shi jin he huan mu gao shi pai	1
+墙上的樱花木告示牌	qiang shang de ying hua mu gao shi pai	1
+墙上的橡木告示牌	qiang shang de xiang mu gao shi pai	1
+墙上的气泡珊瑚扇	qiang shang de qi pao shan hu shan	1
+墙上的深色橡木告示牌	qiang shang de shen se xiang mu gao shi pai	1
+墙上的火把	qiang shang de huo ba	1
+墙上的火珊瑚扇	qiang shang de huo shan hu shan	1
+墙上的灵魂火把	qiang shang de ling hun huo ba	1
+墙上的猪灵的头	qiang shang de zhu ling de tou	1
+墙上的玩家的头	qiang shang de wan jia de tou	1
+墙上的白桦木告示牌	qiang shang de bai hua mu gao shi pai	1
+墙上的竹告示牌	qiang shang de zhu gao shi pai	1
+墙上的管珊瑚扇	qiang shang de guan shan hu shan	1
+墙上的红树木告示牌	qiang shang de hong shu mu gao shi pai	1
+墙上的红石火把	qiang shang de hong shi huo ba	1
+墙上的绯红木告示牌	qiang shang de fei hong mu gao shi pai	1
+墙上的脑纹珊瑚扇	qiang shang de nao wen shan hu shan	1
+墙上的苦力怕的头	qiang shang de ku li pa de tou	1
+墙上的诡异木告示牌	qiang shang de gui yi mu gao shi pai	1
+墙上的金合欢木告示牌	qiang shang de jin he huan mu gao shi pai	1
+墙上的骷髅头颅	qiang shang de ku lou tou lu	1
+墙上的鹿角珊瑚扇	qiang shang de lu jiao shan hu shan	1
+墙上的龙首	qiang shang de long shou	1
+墨囊	mo nang	1
+多重射击	duo chong she ji	1
+夜视	ye shi	1
+夜视之箭	ye shi zhi jian	1
+夜视药水	ye shi yao shui	1
+大型垂滴叶	da xing chui di ye	1
+大型垂滴叶茎	da xing chui di ye jing	1
+大型紫晶芽	da xing zi jing ya	1
+大型蕨	da xing jue	1
+失明	shi ming	1
+失活的气泡珊瑚	shi huo de qi pao shan hu	1
+失活的气泡珊瑚块	shi huo de qi pao shan hu kuai	1
+失活的气泡珊瑚扇	shi huo de qi pao shan hu shan	1
+失活的火珊瑚	shi huo de huo shan hu	1
+失活的火珊瑚块	shi huo de huo shan hu kuai	1
+失活的火珊瑚扇	shi huo de huo shan hu shan	1
+失活的管珊瑚	shi huo de guan shan hu	1
+失活的管珊瑚块	shi huo de guan shan hu kuai	1
+失活的管珊瑚扇	shi huo de guan shan hu shan	1
+失活的脑纹珊瑚	shi huo de nao wen shan hu	1
+失活的脑纹珊瑚块	shi huo de nao wen shan hu kuai	1
+失活的脑纹珊瑚扇	shi huo de nao wen shan hu shan	1
+失活的鹿角珊瑚	shi huo de lu jiao shan hu	1
+失活的鹿角珊瑚块	shi huo de lu jiao shan hu kuai	1
+失活的鹿角珊瑚扇	shi huo de lu jiao shan hu shan	1
+头颅纹样陶片	tou lu wen yang tao pian	1
+女巫	nv wu	1
+女巫刷怪蛋	nv wu shua guai dan	1
+奶桶	nai tong	1
+孢子花	bao zi hua	1
+守卫者	shou wei zhe	1
+守卫者刷怪蛋	shou wei zhe shua guai dan	1
+安山岩	an shan yan	1
+安山岩台阶	an shan yan tai jie	1
+安山岩墙	an shan yan qiang	1
+安山岩楼梯	an shan yan lou ti	1
+宝库	bao ku	1
+寄生	ji sheng	1
+富饶纹样陶片	fu rao wen yang tao pian	1
+小型垂滴叶	xiao xing chui di ye	1
+小型紫晶芽	xiao xing zi jing ya	1
+小火球	xiao huo qiu	1
+小麦	xiao mai	1
+小麦植株	xiao mai zhi zhu	1
+小麦种子	xiao mai zhong zi	1
+尖塔盔甲纹饰	jian ta kui jia wen shi	1
+尖峭山峰	jian qiao shan feng	1
+尸壳	shi ke	1
+尸壳刷怪蛋	shi ke shua guai dan	1
+屏障	ping zhang	1
+山羊	shan yang	1
+山羊刷怪蛋	shan yang shua guai dan	1
+山羊角	shan yang jiao	1
+岩浆块	yan jiang kuai	1
+岩浆怪	yan jiang guai	1
+岩浆怪刷怪蛋	yan jiang guai shua guai dan	1
+岩浆膏	yan jiang gao	1
+工作台	gong zuo tai	1
+巨人	ju ren	1
+干海带	gan hai dai	1
+干海带块	gan hai dai kuai	1
+干草捆	gan cao kun	1
+平凡的药水	ping fan de yao shui	1
+平原	ping yuan	1
+平原村庄地图	ping yuan cun zhuang di tu	1
+平滑玄武岩	ping hua xuan wu yan	1
+平滑石头	ping hua shi tou	1
+平滑石头台阶	ping hua shi tou tai jie	1
+平滑石英台阶	ping hua shi ying tai jie	1
+平滑石英块	ping hua shi ying kuai	1
+平滑石英楼梯	ping hua shi ying lou ti	1
+平滑砂岩	ping hua sha yan	1
+平滑砂岩台阶	ping hua sha yan tai jie	1
+平滑砂岩楼梯	ping hua sha yan lou ti	1
+平滑红砂岩	ping hua hong sha yan	1
+平滑红砂岩台阶	ping hua hong sha yan tai jie	1
+平滑红砂岩楼梯	ping hua hong sha yan lou ti	1
+幸运	xing yun	1
+幸运之箭	xing yun zhi jian	1
+幸运药水	xing yun yao shui	1
+幻术师	huan shu shi	1
+幻翼	huan yi	1
+幻翼刷怪蛋	huan yi shua guai dan	1
+幻翼膜	huan yi mo	1
+幽匿催发体	you ni cui fa ti	1
+幽匿块	you ni kuai	1
+幽匿尖啸体	you ni jian xiao ti	1
+幽匿感测体	you ni gan ce ti	1
+幽匿脉络	you ni mai luo	1
+幽静盔甲纹饰	you jing kui jia wen shi	1
+开裂的铁砧	kai lie de tie zhen	1
+弓	gong	1
+弓箭纹样陶片	gong jian wen yang tao pian	1
+引雷	yin lei	1
+弩	nu	1
+弹射物保护	tan she wu bao hu	1
+强化深板岩	qiang hua shen ban yan	1
+循环型命令方块	xun huan xing ming ling fang kuai	1
+心碎纹样陶片	xin sui wen yang tao pian	1
+忠诚	zhong cheng	1
+快速装填	kuai su zhuang tian	1
+急迫	ji po	1
+恶地	e di	1
+恶魂	e hun	1
+恶魂之泪	e hun zhi lei	1
+恶魂刷怪蛋	e hun shua guai dan	1
+恼鬼	nao gui	1
+恼鬼刷怪蛋	nao gui shua guai dan	1
+恼鬼盔甲纹饰	nao gui kui jia wen shi	1
+悦灵	yue ling	1
+悦灵刷怪蛋	yue ling shua guai dan	1
+悬挂式丛林木告示牌	xuan gua shi cong lin mu gao shi pai	1
+悬挂式云杉木告示牌	xuan gua shi yun shan mu gao shi pai	1
+悬挂式樱花木告示牌	xuan gua shi ying hua mu gao shi pai	1
+悬挂式橡木告示牌	xuan gua shi xiang mu gao shi pai	1
+悬挂式深色橡木告示牌	xuan gua shi shen se xiang mu gao shi pai	1
+悬挂式白桦木告示牌	xuan gua shi bai hua mu gao shi pai	1
+悬挂式竹告示牌	xuan gua shi zhu gao shi pai	1
+悬挂式红树木告示牌	xuan gua shi hong shu mu gao shi pai	1
+悬挂式绯红木告示牌	xuan gua shi fei hong mu gao shi pai	1
+悬挂式诡异木告示牌	xuan gua shi gui yi mu gao shi pai	1
+悬挂式金合欢木告示牌	xuan gua shi jin he huan mu gao shi pai	1
+悲恸纹样陶片	bei tong wen yang tao pian	1
+成书	cheng shu	1
+打火石	da huo shi	1
+投掷器	tou zhi qi	1
+抗性提升	kang xing ti sheng	1
+抗火	kang huo	1
+抗火之箭	kang huo zhi jian	1
+抗火药水	kang huo yao shui	1
+抢夺	qiang duo	1
+拉杆	la gan	1
+拴绳	shuan sheng	1
+拴绳结	shuan sheng jie	1
+拼图方块	pin tu fang kuai	1
+指南针	zhi nan zhen	1
+挖掘疲劳	wa jue pi lao	1
+挚友纹样陶片	zhi you wen yang tao pian	1
+损坏的铁砧	sun huai de tie zhen	1
+掠夺者	lve duo zhe	1
+掠夺者刷怪蛋	lve duo zhe shua guai dan	1
+探测铁轨	tan ce tie gui	1
+探险纹样陶片	tan xian wen yang tao pian	1
+掷出的末影珍珠	zhi chu de mo ying zhen zhu	1
+掷出的附魔之瓶	zhi chu de fu mo zhi ping	1
+掷出的鸡蛋	zhi chu de ji dan	1
+插上品红色蜡烛的蛋糕	cha shang pin hong se la zhu de dan gao	1
+插上棕色蜡烛的蛋糕	cha shang zong se la zhu de dan gao	1
+插上橙色蜡烛的蛋糕	cha shang cheng se la zhu de dan gao	1
+插上淡灰色蜡烛的蛋糕	cha shang dan hui se la zhu de dan gao	1
+插上淡蓝色蜡烛的蛋糕	cha shang dan lan se la zhu de dan gao	1
+插上灰色蜡烛的蛋糕	cha shang hui se la zhu de dan gao	1
+插上白色蜡烛的蛋糕	cha shang bai se la zhu de dan gao	1
+插上粉红色蜡烛的蛋糕	cha shang fen hong se la zhu de dan gao	1
+插上紫色蜡烛的蛋糕	cha shang zi se la zhu de dan gao	1
+插上红色蜡烛的蛋糕	cha shang hong se la zhu de dan gao	1
+插上绿色蜡烛的蛋糕	cha shang lv se la zhu de dan gao	1
+插上蓝色蜡烛的蛋糕	cha shang lan se la zhu de dan gao	1
+插上蜡烛的蛋糕	cha shang la zhu de dan gao	1
+插上青色蜡烛的蛋糕	cha shang qing se la zhu de dan gao	1
+插上黄绿色蜡烛的蛋糕	cha shang huang lv se la zhu de dan gao	1
+插上黄色蜡烛的蛋糕	cha shang huang se la zhu de dan gao	1
+插上黑色蜡烛的蛋糕	cha shang hei se la zhu de dan gao	1
+摔落缓冲	shuai luo huan chong	1
+收纳袋	shou na dai	1
+效率	xiao lv	1
+文本展示实体	wen ben zhan shi shi ti	1
+斑驳的切制铜台阶	ban bo de qie zhi tong tai jie	1
+斑驳的切制铜块	ban bo de qie zhi tong kuai	1
+斑驳的切制铜楼梯	ban bo de qie zhi tong lou ti	1
+斑驳的铜块	ban bo de tong kuai	1
+斑驳的铜格栅	ban bo de tong ge zha	1
+斑驳的铜活板门	ban bo de tong huo ban men	1
+斑驳的铜灯	ban bo de tong deng	1
+斑驳的铜门	ban bo de tong men	1
+斑驳的雕纹铜块	ban bo de diao wen tong kuai	1
+方块展示实体	fang kuai zhan shi shi ti	1
+方解石	fang jie shi	1
+旋风人	xuan feng ren	1
+旋风人刷怪蛋	xuan feng ren shua guai dan	1
+旋风棒	xuan feng bang	1
+旋风纹样陶片	xuan feng wen yang tao pian	1
+旗帜图案	qi zhi tu an	1
+无限	wu xian	1
+时运	shi yun	1
+时钟	shi zhong	1
+暖水海洋	nuan shui hai yang	1
+暗海晶石	an hai jing shi	1
+暗海晶石台阶	an hai jing shi tai jie	1
+暗海晶石楼梯	an hai jing shi lou ti	1
+曲奇	qu qi	1
+望远镜	wang yuan jing	1
+木剑	mu jian	1
+木斧	mu fu	1
+木桶	mu tong	1
+木棍	mu gun	1
+木炭	mu tan	1
+木锄	mu chu	1
+木锹	mu qiao	1
+木镐	mu gao	1
+末地	mo di	1
+末地传送门	mo di chuan song men	1
+末地传送门框架	mo di chuan song men kuang jia	1
+末地内陆	mo di nei lu	1
+末地小型岛屿	mo di xiao xing dao yu	1
+末地折跃门	mo di zhe yue men	1
+末地水晶	mo di shui jing	1
+末地烛	mo di zhu	1
+末地石	mo di shi	1
+末地石砖	mo di shi zhuan	1
+末地石砖台阶	mo di shi zhuan tai jie	1
+末地石砖墙	mo di shi zhuan qiang	1
+末地石砖楼梯	mo di shi zhuan lou ti	1
+末地荒地	mo di huang di	1
+末地高地	mo di gao di	1
+末影之眼	mo ying zhi yan	1
+末影人	mo ying ren	1
+末影人刷怪蛋	mo ying ren shua guai dan	1
+末影珍珠	mo ying zhen zhu	1
+末影箱	mo ying xiang	1
+末影螨	mo ying man	1
+末影螨刷怪蛋	mo ying man shua guai dan	1
+末影龙	mo ying long	1
+末影龙刷怪蛋	mo ying long shua guai dan	1
+末影龙火球	mo ying long huo qiu	1
+杀手兔	sha shou tu	1
+村庄英雄	cun zhuang ying xiong	1
+村民	cun min	1
+村民刷怪蛋	cun min shua guai dan	1
+杜鹃树叶	du juan shu ye	1
+杜鹃花丛	du juan hua cong	1
+杜鹃花丛盆栽	du juan hua cong pen zai	1
+林地探险家地图	lin di tan xian jia di tu	1
+枯萎的灌木	ku wei de guan mu	1
+枯萎的灌木盆栽	ku wei de guan mu pen zai	1
+标记	biao ji	1
+标靶	biao ba	1
+树荫纹样陶片	shu yin wen yang tao pian	1
+校频幽匿感测体	jiao pin you ni gan ce ti	1
+桦木森林	hua mu sen lin	1
+梯子	ti zi	1
+棕色地毯	zong se di tan	1
+棕色带釉陶瓦	zong se dai you tao wa	1
+棕色床	zong se chuang	1
+棕色旗帜	zong se qi zhi	1
+棕色染料	zong se ran liao	1
+棕色染色玻璃	zong se ran se bo li	1
+棕色染色玻璃板	zong se ran se bo li ban	1
+棕色混凝土	zong se hun ning tu	1
+棕色混凝土粉末	zong se hun ning tu fen mo	1
+棕色潜影盒	zong se qian ying he	1
+棕色羊毛	zong se yang mao	1
+棕色蘑菇	zong se mo gu	1
+棕色蘑菇方块	zong se mo gu fang kuai	1
+棕色蘑菇盆栽	zong se mo gu pen zai	1
+棕色蜡烛	zong se la zhu	1
+棕色陶瓦	zong se tao wa	1
+森林	sen lin	1
+横扫之刃	heng sao zhi ren	1
+樱花原木	ying hua yuan mu	1
+樱花木	ying hua mu	1
+樱花木压力板	ying hua mu ya li ban	1
+樱花木台阶	ying hua mu tai jie	1
+樱花木告示牌	ying hua mu gao shi pai	1
+樱花木按钮	ying hua mu an niu	1
+樱花木板	ying hua mu ban	1
+樱花木栅栏	ying hua mu zha lan	1
+樱花木栅栏门	ying hua mu zha lan men	1
+樱花木楼梯	ying hua mu lou ti	1
+樱花木活板门	ying hua mu huo ban men	1
+樱花木船	ying hua mu chuan	1
+樱花木运输船	ying hua mu yun shu chuan	1
+樱花木门	ying hua mu men	1
+樱花树叶	ying hua shu ye	1
+樱花树林	ying hua shu lin	1
+樱花树苗	ying hua shu miao	1
+樱花树苗盆栽	ying hua shu miao pen zai	1
+橙色地毯	cheng se di tan	1
+橙色带釉陶瓦	cheng se dai you tao wa	1
+橙色床	cheng se chuang	1
+橙色旗帜	cheng se qi zhi	1
+橙色染料	cheng se ran liao	1
+橙色染色玻璃	cheng se ran se bo li	1
+橙色染色玻璃板	cheng se ran se bo li ban	1
+橙色混凝土	cheng se hun ning tu	1
+橙色混凝土粉末	cheng se hun ning tu fen mo	1
+橙色潜影盒	cheng se qian ying he	1
+橙色羊毛	cheng se yang mao	1
+橙色蜡烛	cheng se la zhu	1
+橙色郁金香	cheng se yu jin xiang	1
+橙色郁金香盆栽	cheng se yu jin xiang pen zai	1
+橙色陶瓦	cheng se tao wa	1
+橡木	xiang mu	1
+橡木压力板	xiang mu ya li ban	1
+橡木原木	xiang mu yuan mu	1
+橡木台阶	xiang mu tai jie	1
+橡木告示牌	xiang mu gao shi pai	1
+橡木按钮	xiang mu an niu	1
+橡木木板	xiang mu mu ban	1
+橡木栅栏	xiang mu zha lan	1
+橡木栅栏门	xiang mu zha lan men	1
+橡木楼梯	xiang mu lou ti	1
+橡木活板门	xiang mu huo ban men	1
+橡木船	xiang mu chuan	1
+橡木运输船	xiang mu yun shu chuan	1
+橡木门	xiang mu men	1
+橡树树叶	xiang shu shu ye	1
+橡树树苗	xiang shu shu miao	1
+橡树树苗盆栽	xiang shu shu miao pen zai	1
+毒马铃薯	du ma ling shu	1
+气泡柱	qi pao zhu	1
+气泡珊瑚	qi pao shan hu	1
+气泡珊瑚块	qi pao shan hu kuai	1
+气泡珊瑚扇	qi pao shan hu shan	1
+氧化的切制铜台阶	yang hua de qie zhi tong tai jie	1
+氧化的切制铜块	yang hua de qie zhi tong kuai	1
+氧化的切制铜楼梯	yang hua de qie zhi tong lou ti	1
+氧化的铜块	yang hua de tong kuai	1
+氧化的铜格栅	yang hua de tong ge zha	1
+氧化的铜活板门	yang hua de tong huo ban men	1
+氧化的铜灯	yang hua de tong deng	1
+氧化的铜门	yang hua de tong men	1
+氧化的雕纹铜块	yang hua de diao wen tong kuai	1
+水	shui	1
+水下呼吸	shui xia hu xi	1
+水下速掘	shui xia su jue	1
+水桶	shui tong	1
+水瓶	shui ping	1
+水肺之箭	shui fei zhi jian	1
+水肺药水	shui fei yao shui	1
+沉重核心	chen zhong he xin	1
+沙丘盔甲纹饰	sha qiu kui jia wen shi	1
+沙子	sha zi	1
+沙滩	sha tan	1
+沙漠	sha mo	1
+沙漠村庄地图	sha mo cun zhuang di tu	1
+沙砾	sha li	1
+河流	he liu	1
+河豚	he tun	1
+河豚刷怪蛋	he tun shua guai dan	1
+河豚桶	he tun tong	1
+治疗之箭	zhi liao zhi jian	1
+治疗药水	zhi liao yao shui	1
+沼泽	zhao ze	1
+沼泽探险家地图	zhao ze tan xian jia di tu	1
+沼骸	zhao hai	1
+沼骸刷怪蛋	zhao hai shua guai dan	1
+沾泥的红树根	zhan ni de hong shu gen	1
+泥土	ni tu	1
+泥坯	ni pi	1
+泥巴	ni ba	1
+泥砖	ni zhuan	1
+泥砖台阶	ni zhuan tai jie	1
+泥砖墙	ni zhuan qiang	1
+泥砖楼梯	ni zhuan lou ti	1
+洞穴空气	dong xue kong qi	1
+洞穴藤蔓	dong xue teng wan	1
+洞穴藤蔓植株	dong xue teng wan zhi zhu	1
+洞穴蜘蛛	dong xue zhi zhu	1
+洞穴蜘蛛刷怪蛋	dong xue zhi zhu shua guai dan	1
+活塞	huo sai	1
+活塞头	huo sai tou	1
+流浪商人	liu lang shang ren	1
+流浪商人刷怪蛋	liu lang shang ren shua guai dan	1
+流浪者	liu lang zhe	1
+流浪者刷怪蛋	liu lang zhe shua guai dan	1
+浓稠的药水	nong chou de yao shui	1
+浮冰	fu bing	1
+浮漂	fu piao	1
+海之眷顾	hai zhi juan gu	1
+海岸盔甲纹饰	hai an kui jia wen shi	1
+海带	hai dai	1
+海带植株	hai dai zhi zhu	1
+海晶灯	hai jing deng	1
+海晶石	hai jing shi	1
+海晶石台阶	hai jing shi tai jie	1
+海晶石墙	hai jing shi qiang	1
+海晶石楼梯	hai jing shi lou ti	1
+海晶石砖	hai jing shi zhuan	1
+海晶石砖台阶	hai jing shi zhuan tai jie	1
+海晶石砖楼梯	hai jing shi zhuan lou ti	1
+海晶砂粒	hai jing sha li	1
+海晶碎片	hai jing sui pian	1
+海泡菜	hai pao cai	1
+海洋	hai yang	1
+海洋之心	hai yang zhi xin	1
+海洋探险家地图	hai yang tan xian jia di tu	1
+海绵	hai mian	1
+海草	hai cao	1
+海豚	hai tun	1
+海豚刷怪蛋	hai tun shua guai dan	1
+海豚的恩惠	hai tun de en hui	1
+海龟	hai gui	1
+海龟刷怪蛋	hai gui shua guai dan	1
+海龟壳	hai gui ke	1
+海龟蛋	hai gui dan	1
+海龟鳞甲	hai gui lin jia	1
+涂蜡的切制铜台阶	tu la de qie zhi tong tai jie	1
+涂蜡的切制铜块	tu la de qie zhi tong kuai	1
+涂蜡的切制铜楼梯	tu la de qie zhi tong lou ti	1
+涂蜡的斑驳切制铜台阶	tu la de ban bo qie zhi tong tai jie	1
+涂蜡的斑驳切制铜块	tu la de ban bo qie zhi tong kuai	1
+涂蜡的斑驳切制铜楼梯	tu la de ban bo qie zhi tong lou ti	1
+涂蜡的斑驳铜块	tu la de ban bo tong kuai	1
+涂蜡的斑驳铜格栅	tu la de ban bo tong ge zha	1
+涂蜡的斑驳铜活板门	tu la de ban bo tong huo ban men	1
+涂蜡的斑驳铜灯	tu la de ban bo tong deng	1
+涂蜡的斑驳铜门	tu la de ban bo tong men	1
+涂蜡的斑驳雕纹铜块	tu la de ban bo diao wen tong kuai	1
+涂蜡的氧化切制铜台阶	tu la de yang hua qie zhi tong tai jie	1
+涂蜡的氧化切制铜块	tu la de yang hua qie zhi tong kuai	1
+涂蜡的氧化切制铜楼梯	tu la de yang hua qie zhi tong lou ti	1
+涂蜡的氧化铜块	tu la de yang hua tong kuai	1
+涂蜡的氧化铜格栅	tu la de yang hua tong ge zha	1
+涂蜡的氧化铜活板门	tu la de yang hua tong huo ban men	1
+涂蜡的氧化铜灯	tu la de yang hua tong deng	1
+涂蜡的氧化铜门	tu la de yang hua tong men	1
+涂蜡的氧化雕纹铜块	tu la de yang hua diao wen tong kuai	1
+涂蜡的铜块	tu la de tong kuai	1
+涂蜡的铜格栅	tu la de tong ge zha	1
+涂蜡的铜活板门	tu la de tong huo ban men	1
+涂蜡的铜灯	tu la de tong deng	1
+涂蜡的铜门	tu la de tong men	1
+涂蜡的锈蚀切制铜台阶	tu la de xiu shi qie zhi tong tai jie	1
+涂蜡的锈蚀切制铜块	tu la de xiu shi qie zhi tong kuai	1
+涂蜡的锈蚀切制铜楼梯	tu la de xiu shi qie zhi tong lou ti	1
+涂蜡的锈蚀铜块	tu la de xiu shi tong kuai	1
+涂蜡的锈蚀铜格栅	tu la de xiu shi tong ge zha	1
+涂蜡的锈蚀铜活板门	tu la de xiu shi tong huo ban men	1
+涂蜡的锈蚀铜灯	tu la de xiu shi tong deng	1
+涂蜡的锈蚀铜门	tu la de xiu shi tong men	1
+涂蜡的锈蚀雕纹铜块	tu la de xiu shi diao wen tong kuai	1
+涂蜡的雕纹铜块	tu la de diao wen tong kuai	1
+消失诅咒	xiao shi zu zhou	1
+涡流盔甲纹饰	wo liu kui jia wen shi	1
+涡流纹样陶片	wo liu wen yang tao pian	1
+淡灰色地毯	dan hui se di tan	1
+淡灰色带釉陶瓦	dan hui se dai you tao wa	1
+淡灰色床	dan hui se chuang	1
+淡灰色旗帜	dan hui se qi zhi	1
+淡灰色染料	dan hui se ran liao	1
+淡灰色染色玻璃	dan hui se ran se bo li	1
+淡灰色染色玻璃板	dan hui se ran se bo li ban	1
+淡灰色混凝土	dan hui se hun ning tu	1
+淡灰色混凝土粉末	dan hui se hun ning tu fen mo	1
+淡灰色潜影盒	dan hui se qian ying he	1
+淡灰色羊毛	dan hui se yang mao	1
+淡灰色蜡烛	dan hui se la zhu	1
+淡灰色陶瓦	dan hui se tao wa	1
+淡蓝色地毯	dan lan se di tan	1
+淡蓝色带釉陶瓦	dan lan se dai you tao wa	1
+淡蓝色床	dan lan se chuang	1
+淡蓝色旗帜	dan lan se qi zhi	1
+淡蓝色染料	dan lan se ran liao	1
+淡蓝色染色玻璃	dan lan se ran se bo li	1
+淡蓝色染色玻璃板	dan lan se ran se bo li ban	1
+淡蓝色混凝土	dan lan se hun ning tu	1
+淡蓝色混凝土粉末	dan lan se hun ning tu fen mo	1
+淡蓝色潜影盒	dan lan se qian ying he	1
+淡蓝色羊毛	dan lan se yang mao	1
+淡蓝色蜡烛	dan lan se la zhu	1
+淡蓝色陶瓦	dan lan se tao wa	1
+深层煤矿石	shen ceng mei kuang shi	1
+深层红石矿石	shen ceng hong shi kuang shi	1
+深层绿宝石矿石	shen ceng lv bao shi kuang shi	1
+深层金矿石	shen ceng jin kuang shi	1
+深层钻石矿石	shen ceng zuan shi kuang shi	1
+深层铁矿石	shen ceng tie kuang shi	1
+深层铜矿石	shen ceng tong kuang shi	1
+深层青金石矿石	shen ceng qing jin shi kuang shi	1
+深暗之域	shen an zhi yu	1
+深板岩	shen ban yan	1
+深板岩圆石	shen ban yan yuan shi	1
+深板岩圆石台阶	shen ban yan yuan shi tai jie	1
+深板岩圆石墙	shen ban yan yuan shi qiang	1
+深板岩圆石楼梯	shen ban yan yuan shi lou ti	1
+深板岩瓦	shen ban yan wa	1
+深板岩瓦台阶	shen ban yan wa tai jie	1
+深板岩瓦墙	shen ban yan wa qiang	1
+深板岩瓦楼梯	shen ban yan wa lou ti	1
+深板岩砖	shen ban yan zhuan	1
+深板岩砖台阶	shen ban yan zhuan tai jie	1
+深板岩砖墙	shen ban yan zhuan qiang	1
+深板岩砖楼梯	shen ban yan zhuan lou ti	1
+深海	shen hai	1
+深海探索者	shen hai tan suo zhe	1
+深色橡木	shen se xiang mu	1
+深色橡木压力板	shen se xiang mu ya li ban	1
+深色橡木原木	shen se xiang mu yuan mu	1
+深色橡木台阶	shen se xiang mu tai jie	1
+深色橡木告示牌	shen se xiang mu gao shi pai	1
+深色橡木按钮	shen se xiang mu an niu	1
+深色橡木木板	shen se xiang mu mu ban	1
+深色橡木栅栏	shen se xiang mu zha lan	1
+深色橡木栅栏门	shen se xiang mu zha lan men	1
+深色橡木楼梯	shen se xiang mu lou ti	1
+深色橡木活板门	shen se xiang mu huo ban men	1
+深色橡木船	shen se xiang mu chuan	1
+深色橡木运输船	shen se xiang mu yun shu chuan	1
+深色橡木门	shen se xiang mu men	1
+深色橡树树叶	shen se xiang shu shu ye	1
+深色橡树树苗	shen se xiang shu shu miao	1
+深色橡树树苗盆栽	shen se xiang shu shu miao pen zai	1
+渗浆	shen jiang	1
+渗浆之箭	shen jiang zhi jian	1
+渗浆药水	shen jiang yao shui	1
+温水海洋	wen shui hai yang	1
+温水深海	wen shui shen hai	1
+湿海绵	shi hai mian	1
+溶洞	rong dong	1
+溺尸	ni shi	1
+溺尸刷怪蛋	ni shi shua guai dan	1
+滞留型伤害药水	zhi liu xing shang hai yao shui	1
+滞留型再生药水	zhi liu xing zai sheng yao shui	1
+滞留型剧毒药水	zhi liu xing ju du yao shui	1
+滞留型力量药水	zhi liu xing li liang yao shui	1
+滞留型夜视药水	zhi liu xing ye shi yao shui	1
+滞留型平凡的药水	zhi liu xing ping fan de yao shui	1
+滞留型幸运药水	zhi liu xing xing yun yao shui	1
+滞留型抗火药水	zhi liu xing kang huo yao shui	1
+滞留型水瓶	zhi liu xing shui ping	1
+滞留型水肺药水	zhi liu xing shui fei yao shui	1
+滞留型治疗药水	zhi liu xing zhi liao yao shui	1
+滞留型浓稠的药水	zhi liu xing nong chou de yao shui	1
+滞留型渗浆药水	zhi liu xing shen jiang yao shui	1
+滞留型盘丝药水	zhi liu xing pan si yao shui	1
+滞留型神龟药水	zhi liu xing shen gui yao shui	1
+滞留型粗制的药水	zhi liu xing cu zhi de yao shui	1
+滞留型缓降药水	zhi liu xing huan jiang yao shui	1
+滞留型蓄风药水	zhi liu xing xu feng yao shui	1
+滞留型虚弱药水	zhi liu xing xu ruo yao shui	1
+滞留型虫蚀药水	zhi liu xing chong shi yao shui	1
+滞留型跳跃药水	zhi liu xing tiao yue yao shui	1
+滞留型迅捷药水	zhi liu xing xun jie yao shui	1
+滞留型迟缓药水	zhi liu xing chi huan yao shui	1
+滞留型隐身药水	zhi liu xing yin shen yao shui	1
+滞留型飘浮药水	zhi liu xing piao fu yao shui	1
+滞留药水	zhi liu yao shui	1
+滨菊	bin ju	1
+滨菊盆栽	bin ju pen zai	1
+滴水石块	di shui shi kuai	1
+滴水石锥	di shui shi zhui	1
+漏斗	lou dou	1
+漏斗矿车	lou dou kuang che	1
+潜影壳	qian ying ke	1
+潜影弹	qian ying dan	1
+潜影盒	qian ying he	1
+潜影贝	qian ying bei	1
+潜影贝刷怪蛋	qian ying bei shua guai dan	1
+潮汐盔甲纹饰	chao xi kui jia wen shi	1
+潮涌核心	chao yong he xin	1
+潮涌能量	chao yong neng liang	1
+激活铁轨	ji huo tie gui	1
+激流	ji liu	1
+火	huo	1
+火把	huo ba	1
+火把花	huo ba hua	1
+火把花植株	huo ba hua zhi zhu	1
+火把花盆栽	huo ba hua pen zai	1
+火把花种子	huo ba hua zhong zi	1
+火焰保护	huo yan bao hu	1
+火焰弹	huo yan dan	1
+火焰附加	huo yan fu jia	1
+火珊瑚	huo shan hu	1
+火珊瑚块	huo shan hu kuai	1
+火珊瑚扇	huo shan hu shan	1
+火球	huo qiu	1
+火矢	huo shi	1
+火药	huo yao	1
+灯笼	deng long	1
+灰化土	hui hua tu	1
+灰色地毯	hui se di tan	1
+灰色带釉陶瓦	hui se dai you tao wa	1
+灰色床	hui se chuang	1
+灰色旗帜	hui se qi zhi	1
+灰色染料	hui se ran liao	1
+灰色染色玻璃	hui se ran se bo li	1
+灰色染色玻璃板	hui se ran se bo li ban	1
+灰色混凝土	hui se hun ning tu	1
+灰色混凝土粉末	hui se hun ning tu fen mo	1
+灰色潜影盒	hui se qian ying he	1
+灰色羊毛	hui se yang mao	1
+灰色蜡烛	hui se la zhu	1
+灰色陶瓦	hui se tao wa	1
+灵魂土	ling hun tu	1
+灵魂沙	ling hun sha	1
+灵魂沙峡谷	ling hun sha xia gu	1
+灵魂火	ling hun huo	1
+灵魂火把	ling hun huo ba	1
+灵魂灯笼	ling hun deng long	1
+灵魂疾行	ling hun ji xing	1
+灵魂营火	ling hun ying huo	1
+灾厄旗帜	zai e qi zhi	1
+炼药锅	lian yao guo	1
+炽足兽	chi zu shou	1
+炽足兽刷怪蛋	chi zu shou shua guai dan	1
+烈焰人	lie yan ren	1
+烈焰人刷怪蛋	lie yan ren shua guai dan	1
+烈焰棒	lie yan bang	1
+烈焰粉	lie yan fen	1
+烈焰纹样陶片	lie yan wen yang tao pian	1
+烟火之星	yan huo zhi xing	1
+烟熏炉	yan xun lu	1
+烟花火箭	yan hua huo jian	1
+烤马铃薯	kao ma ling shu	1
+热带草原	re dai cao yuan	1
+热带草原村庄地图	re dai cao yuan cun zhuang di tu	1
+热带高原	re dai gao yuan	1
+热带鱼	re dai yu	1
+热带鱼刷怪蛋	re dai yu shua guai dan	1
+热带鱼桶	re dai yu tong	1
+煤炭	mei tan	1
+煤炭块	mei tan kuai	1
+煤矿石	mei kuang shi	1
+熊猫	xiong mao	1
+熊猫刷怪蛋	xiong mao shua guai dan	1
+熔岩	rong yan	1
+熔岩桶	rong yan tong	1
+熔炉	rong lu	1
+熟兔肉	shu tu rou	1
+熟猪排	shu zhu pai	1
+熟羊肉	shu yang rou	1
+熟鲑鱼	shu gui yu	1
+熟鳕鱼	shu xue yu	1
+熟鸡肉	shu ji rou	1
+燧石	sui shi	1
+爆炸保护	bao zha bao hu	1
+爆裂紫颂果	bao lie zi song guo	1
+爱心纹样陶片	ai xin wen yang tao pian	1
+牛	niu	1
+牛刷怪蛋	niu shua guai dan	1
+牛排	niu pai	1
+牡丹	mu dan	1
+牧民盔甲纹饰	mu min kui jia wen shi	1
+物品	wu pin	1
+物品展示实体	wu pin zhan shi shi ti	1
+物品展示框	wu pin zhan shi kuang	1
+犰狳	qiu yu	1
+犰狳刷怪蛋	qiu yu shua guai dan	1
+犰狳鳞甲	qiu yu lin jia	1
+狐狸	hu li	1
+狐狸刷怪蛋	hu li shua guai dan	1
+狼	lang	1
+狼刷怪蛋	lang shua guai dan	1
+狼嚎纹样陶片	lang hao wen yang tao pian	1
+狼铠	lang kai	1
+猪	zhu	1
+猪刷怪蛋	zhu shua guai dan	1
+猪灵	zhu ling	1
+猪灵刷怪蛋	zhu ling shua guai dan	1
+猪灵的头	zhu ling de tou	1
+猪灵蛮兵	zhu ling man bing	1
+猪灵蛮兵刷怪蛋	zhu ling man bing shua guai dan	1
+猪鼻盔甲纹饰	zhu bi kui jia wen shi	1
+猫	mao	1
+猫刷怪蛋	mao shua guai dan	1
+玄武岩	xuan wu yan	1
+玄武岩三角洲	xuan wu yan san jiao zhou	1
+玩家	wan jia	1
+玩家的头	wan jia de tou	1
+玫瑰丛	mei gui cong	1
+玻璃	bo li	1
+玻璃板	bo li ban	1
+玻璃瓶	bo li ping	1
+珍宝纹样陶片	zhen bao wen yang tao pian	1
+珠光蛙明灯	zhu guang wa ming deng	1
+瓶子草	ping zi cao	1
+瓶子草植株	ping zi cao zhi zhu	1
+瓶子草荚果	ping zi cao jia guo	1
+甘蔗	gan zhe	1
+甜浆果	tian jiang guo	1
+甜浆果丛	tian jiang guo cong	1
+甜菜根	tian cai gen	1
+甜菜汤	tian cai tang	1
+甜菜种子	tian cai zhong zi	1
+生兔肉	sheng tu rou	1
+生命恢复	sheng ming hui fu	1
+生命提升	sheng ming ti sheng	1
+生牛肉	sheng niu rou	1
+生猪排	sheng zhu pai	1
+生羊肉	sheng yang rou	1
+生鲑鱼	sheng gui yu	1
+生鳕鱼	sheng xue yu	1
+生鸡肉	sheng ji rou	1
+画	hua	1
+疏林恶地	shu lin e di	1
+疣猪兽	you zhu shou	1
+疣猪兽刷怪蛋	you zhu shou shua guai dan	1
+白桦原木	bai hua yuan mu	1
+白桦木	bai hua mu	1
+白桦木压力板	bai hua mu ya li ban	1
+白桦木台阶	bai hua mu tai jie	1
+白桦木告示牌	bai hua mu gao shi pai	1
+白桦木按钮	bai hua mu an niu	1
+白桦木板	bai hua mu ban	1
+白桦木栅栏	bai hua mu zha lan	1
+白桦木栅栏门	bai hua mu zha lan men	1
+白桦木楼梯	bai hua mu lou ti	1
+白桦木活板门	bai hua mu huo ban men	1
+白桦木船	bai hua mu chuan	1
+白桦木运输船	bai hua mu yun shu chuan	1
+白桦木门	bai hua mu men	1
+白桦树叶	bai hua shu ye	1
+白桦树苗	bai hua shu miao	1
+白桦树苗盆栽	bai hua shu miao pen zai	1
+白色地毯	bai se di tan	1
+白色带釉陶瓦	bai se dai you tao wa	1
+白色床	bai se chuang	1
+白色旗帜	bai se qi zhi	1
+白色染料	bai se ran liao	1
+白色染色玻璃	bai se ran se bo li	1
+白色染色玻璃板	bai se ran se bo li ban	1
+白色混凝土	bai se hun ning tu	1
+白色混凝土粉末	bai se hun ning tu fen mo	1
+白色潜影盒	bai se qian ying he	1
+白色羊毛	bai se yang mao	1
+白色蜡烛	bai se la zhu	1
+白色郁金香	bai se yu jin xiang	1
+白色郁金香盆栽	bai se yu jin xiang pen zai	1
+白色陶瓦	bai se tao wa	1
+皮革	pi ge	1
+皮革外套	pi ge wai tao	1
+皮革帽子	pi ge mao zi	1
+皮革裤子	pi ge ku zi	1
+皮革靴子	pi ge xue zi	1
+皮革马铠	pi ge ma kai	1
+监守盔甲纹饰	jian shou kui jia wen shi	1
+监守者	jian shou zhe	1
+监守者刷怪蛋	jian shou zhe shua guai dan	1
+盔甲架	kui jia jia	1
+盘丝	pan si	1
+盘丝之箭	pan si zhi jian	1
+盘丝药水	pan si yao shui	1
+盛开的杜鹃树叶	sheng kai de du juan shu ye	1
+盛开的杜鹃花丛	sheng kai de du juan hua cong	1
+盛开的杜鹃花丛盆栽	sheng kai de du juan hua cong pen zai	1
+盾牌	dun pai	1
+眼眸盔甲纹饰	yan mou kui jia wen shi	1
+睡莲	shui lian	1
+瞬间伤害	shun jian shang hai	1
+瞬间治疗	shun jian zhi liao	1
+矢车菊	shi che ju	1
+矢车菊盆栽	shi che ju pen zai	1
+知识之书	zhi shi zhi shu	1
+矮草丛	ai cao cong	1
+石剑	shi jian	1
+石化橡木台阶	shi hua xiang mu tai jie	1
+石头	shi tou	1
+石头压力板	shi tou ya li ban	1
+石头台阶	shi tou tai jie	1
+石头按钮	shi tou an niu	1
+石头楼梯	shi tou lou ti	1
+石岸	shi an	1
+石斧	shi fu	1
+石砖	shi zhuan	1
+石砖台阶	shi zhuan tai jie	1
+石砖墙	shi zhuan qiang	1
+石砖楼梯	shi zhuan lou ti	1
+石英台阶	shi ying tai jie	1
+石英块	shi ying kuai	1
+石英柱	shi ying zhu	1
+石英楼梯	shi ying lou ti	1
+石英砖	shi ying zhuan	1
+石锄	shi chu	1
+石锹	shi qiao	1
+石镐	shi gao	1
+矿车	kuang che	1
+砂土	sha tu	1
+砂岩	sha yan	1
+砂岩台阶	sha yan tai jie	1
+砂岩墙	sha yan qiang	1
+砂岩楼梯	sha yan lou ti	1
+砂轮	sha lun	1
+破甲	po jia	1
+碗	wan	1
+磁石	ci shi	1
+磁石指针	ci shi zhi zhen	1
+磨制凝灰岩	mo zhi ning hui yan	1
+磨制凝灰岩台阶	mo zhi ning hui yan tai jie	1
+磨制凝灰岩墙	mo zhi ning hui yan qiang	1
+磨制凝灰岩楼梯	mo zhi ning hui yan lou ti	1
+磨制安山岩	mo zhi an shan yan	1
+磨制安山岩台阶	mo zhi an shan yan tai jie	1
+磨制安山岩楼梯	mo zhi an shan yan lou ti	1
+磨制深板岩	mo zhi shen ban yan	1
+磨制深板岩台阶	mo zhi shen ban yan tai jie	1
+磨制深板岩墙	mo zhi shen ban yan qiang	1
+磨制深板岩楼梯	mo zhi shen ban yan lou ti	1
+磨制玄武岩	mo zhi xuan wu yan	1
+磨制花岗岩	mo zhi hua gang yan	1
+磨制花岗岩台阶	mo zhi hua gang yan tai jie	1
+磨制花岗岩楼梯	mo zhi hua gang yan lou ti	1
+磨制闪长岩	mo zhi shan zhang yan	1
+磨制闪长岩台阶	mo zhi shan zhang yan tai jie	1
+磨制闪长岩楼梯	mo zhi shan zhang yan lou ti	1
+磨制黑石	mo zhi hei shi	1
+磨制黑石压力板	mo zhi hei shi ya li ban	1
+磨制黑石台阶	mo zhi hei shi tai jie	1
+磨制黑石墙	mo zhi hei shi qiang	1
+磨制黑石按钮	mo zhi hei shi an niu	1
+磨制黑石楼梯	mo zhi hei shi lou ti	1
+磨制黑石砖	mo zhi hei shi zhuan	1
+磨制黑石砖台阶	mo zhi hei shi zhuan tai jie	1
+磨制黑石砖墙	mo zhi hei shi zhuan qiang	1
+磨制黑石砖楼梯	mo zhi hei shi zhuan lou ti	1
+神龟之箭	shen gui zhi jian	1
+神龟药水	shen gui yao shui	1
+积雪山坡	ji xue shan po	1
+积雪沙滩	ji xue sha tan	1
+积雪针叶林	ji xue zhen ye lin	1
+移动的活塞	yi dong de huo sai	1
+稀疏丛林	xi shu cong lin	1
+空地图	kong di tu	1
+空气	kong qi	1
+穿刺	chuan ci	1
+穿透	chuan tou	1
+竹压力板	zhu ya li ban	1
+竹台阶	zhu tai jie	1
+竹告示牌	zhu gao shi pai	1
+竹块	zhu kuai	1
+竹子	zhu zi	1
+竹子盆栽	zhu zi pen zai	1
+竹按钮	zhu an niu	1
+竹板	zhu ban	1
+竹林	zhu lin	1
+竹栅栏	zhu zha lan	1
+竹栅栏门	zhu zha lan men	1
+竹楼梯	zhu lou ti	1
+竹活板门	zhu huo ban men	1
+竹笋	zhu sun	1
+竹筏	zhu fa	1
+竹门	zhu men	1
+竹马赛克	zhu ma sai ke	1
+竹马赛克台阶	zhu ma sai ke tai jie	1
+竹马赛克楼梯	zhu ma sai ke lou ti	1
+管珊瑚	guan shan hu	1
+管珊瑚块	guan shan hu kuai	1
+管珊瑚扇	guan shan hu shan	1
+箭	jian	1
+箱子	xiang zi	1
+粉红色地毯	fen hong se di tan	1
+粉红色带釉陶瓦	fen hong se dai you tao wa	1
+粉红色床	fen hong se chuang	1
+粉红色旗帜	fen hong se qi zhi	1
+粉红色染料	fen hong se ran liao	1
+粉红色染色玻璃	fen hong se ran se bo li	1
+粉红色染色玻璃板	fen hong se ran se bo li ban	1
+粉红色混凝土	fen hong se hun ning tu	1
+粉红色混凝土粉末	fen hong se hun ning tu fen mo	1
+粉红色潜影盒	fen hong se qian ying he	1
+粉红色羊毛	fen hong se yang mao	1
+粉红色花簇	fen hong se hua cu	1
+粉红色蜡烛	fen hong se la zhu	1
+粉红色郁金香	fen hong se yu jin xiang	1
+粉红色郁金香盆栽	fen hong se yu jin xiang pen zai	1
+粉红色陶瓦	fen hong se tao wa	1
+粗制的药水	cu zhi de yao shui	1
+粗金	cu jin	1
+粗金块	cu jin kuai	1
+粗铁	cu tie	1
+粗铁块	cu tie kuai	1
+粗铜	cu tong	1
+粗铜块	cu tong kuai	1
+精准采集	jing zhun cai ji	1
+糖	tang	1
+紫水晶块	zi shui jing kuai	1
+紫水晶母岩	zi shui jing mu yan	1
+紫水晶碎片	zi shui jing sui pian	1
+紫水晶簇	zi shui jing cu	1
+紫珀台阶	zi po tai jie	1
+紫珀块	zi po kuai	1
+紫珀柱	zi po zhu	1
+紫珀楼梯	zi po lou ti	1
+紫色地毯	zi se di tan	1
+紫色带釉陶瓦	zi se dai you tao wa	1
+紫色床	zi se chuang	1
+紫色旗帜	zi se qi zhi	1
+紫色染料	zi se ran liao	1
+紫色染色玻璃	zi se ran se bo li	1
+紫色染色玻璃板	zi se ran se bo li ban	1
+紫色混凝土	zi se hun ning tu	1
+紫色混凝土粉末	zi se hun ning tu fen mo	1
+紫色潜影盒	zi se qian ying he	1
+紫色羊毛	zi se yang mao	1
+紫色蜡烛	zi se la zhu	1
+紫色陶瓦	zi se tao wa	1
+紫颂果	zi song guo	1
+紫颂植株	zi song zhi zhu	1
+紫颂花	zi song hua	1
+繁花森林	fan hua sen lin	1
+繁茂洞穴	fan mao dong xue	1
+红树原木	hong shu yuan mu	1
+红树木	hong shu mu	1
+红树木压力板	hong shu mu ya li ban	1
+红树木台阶	hong shu mu tai jie	1
+红树木告示牌	hong shu mu gao shi pai	1
+红树木按钮	hong shu mu an niu	1
+红树木板	hong shu mu ban	1
+红树木栅栏	hong shu mu zha lan	1
+红树木栅栏门	hong shu mu zha lan men	1
+红树木楼梯	hong shu mu lou ti	1
+红树木活板门	hong shu mu huo ban men	1
+红树木船	hong shu mu chuan	1
+红树木运输船	hong shu mu yun shu chuan	1
+红树木门	hong shu mu men	1
+红树林沼泽	hong shu lin zhao ze	1
+红树树叶	hong shu shu ye	1
+红树根	hong shu gen	1
+红树胎生苗	hong shu tai sheng miao	1
+红树胎生苗盆栽	hong shu tai sheng miao pen zai	1
+红沙	hong sha	1
+红石中继器	hong shi zhong ji qi	1
+红石块	hong shi kuai	1
+红石比较器	hong shi bi jiao qi	1
+红石火把	hong shi huo ba	1
+红石灯	hong shi deng	1
+红石矿石	hong shi kuang shi	1
+红石粉	hong shi fen	1
+红石线	hong shi xian	1
+红砂岩	hong sha yan	1
+红砂岩台阶	hong sha yan tai jie	1
+红砂岩墙	hong sha yan qiang	1
+红砂岩楼梯	hong sha yan lou ti	1
+红砖	hong zhuan	1
+红砖台阶	hong zhuan tai jie	1
+红砖块	hong zhuan kuai	1
+红砖墙	hong zhuan qiang	1
+红砖楼梯	hong zhuan lou ti	1
+红色下界砖台阶	hong se xia jie zhuan tai jie	1
+红色下界砖块	hong se xia jie zhuan kuai	1
+红色下界砖墙	hong se xia jie zhuan qiang	1
+红色下界砖楼梯	hong se xia jie zhuan lou ti	1
+红色地毯	hong se di tan	1
+红色带釉陶瓦	hong se dai you tao wa	1
+红色床	hong se chuang	1
+红色旗帜	hong se qi zhi	1
+红色染料	hong se ran liao	1
+红色染色玻璃	hong se ran se bo li	1
+红色染色玻璃板	hong se ran se bo li ban	1
+红色混凝土	hong se hun ning tu	1
+红色混凝土粉末	hong se hun ning tu fen mo	1
+红色潜影盒	hong se qian ying he	1
+红色羊毛	hong se yang mao	1
+红色蘑菇	hong se mo gu	1
+红色蘑菇方块	hong se mo gu fang kuai	1
+红色蘑菇盆栽	hong se mo gu pen zai	1
+红色蜡烛	hong se la zhu	1
+红色郁金香	hong se yu jin xiang	1
+红色郁金香盆栽	hong se yu jin xiang pen zai	1
+红色陶瓦	hong se tao wa	1
+纸	zhi	1
+线	xian	1
+细雪	xi xue	1
+细雪桶	xi xue tong	1
+织布机	zhi bu ji	1
+绊线	ban xian	1
+绊线钩	ban xian gou	1
+经验修补	jing yan xiu bu	1
+经验球	jing yan qiu	1
+绑定诅咒	bang ding zu zhou	1
+绒球葱	rong qiu cong	1
+绒球葱盆栽	rong qiu cong pen zai	1
+结构方块	jie gou fang kuai	1
+结构空位	jie gou kong wei	1
+结果的南瓜茎	jie guo de nan gua jing	1
+结果的西瓜茎	jie guo de xi gua jing	1
+绯红木压力板	fei hong mu ya li ban	1
+绯红木台阶	fei hong mu tai jie	1
+绯红木告示牌	fei hong mu gao shi pai	1
+绯红木按钮	fei hong mu an niu	1
+绯红木板	fei hong mu ban	1
+绯红木栅栏	fei hong mu zha lan	1
+绯红木栅栏门	fei hong mu zha lan men	1
+绯红木楼梯	fei hong mu lou ti	1
+绯红木活板门	fei hong mu huo ban men	1
+绯红木门	fei hong mu men	1
+绯红森林	fei hong sen lin	1
+绯红菌	fei hong jun	1
+绯红菌岩	fei hong jun yan	1
+绯红菌柄	fei hong jun bing	1
+绯红菌核	fei hong jun he	1
+绯红菌盆栽	fei hong jun pen zai	1
+绯红菌索	fei hong jun suo	1
+绯红菌索盆栽	fei hong jun suo pen zai	1
+绵羊	mian yang	1
+绵羊刷怪蛋	mian yang shua guai dan	1
+绿宝石	lv bao shi	1
+绿宝石块	lv bao shi kuai	1
+绿宝石矿石	lv bao shi kuang shi	1
+绿色地毯	lv se di tan	1
+绿色带釉陶瓦	lv se dai you tao wa	1
+绿色床	lv se chuang	1
+绿色旗帜	lv se qi zhi	1
+绿色染料	lv se ran liao	1
+绿色染色玻璃	lv se ran se bo li	1
+绿色染色玻璃板	lv se ran se bo li ban	1
+绿色混凝土	lv se hun ning tu	1
+绿色混凝土粉末	lv se hun ning tu fen mo	1
+绿色潜影盒	lv se qian ying he	1
+绿色羊毛	lv se yang mao	1
+绿色蜡烛	lv se la zhu	1
+绿色陶瓦	lv se tao wa	1
+缓慢	huan man	1
+缓降	huan jiang	1
+缓降之箭	huan jiang zhi jian	1
+缓降药水	huan jiang yao shui	1
+缠怨藤	chan yuan teng	1
+缠怨藤植株	chan yuan teng zhi zhu	1
+缠根泥土	chan gen ni tu	1
+羊驼	yang tuo	1
+羊驼刷怪蛋	yang tuo shua guai dan	1
+羊驼唾沫	yang tuo tuo mo	1
+美西螈	mei xi yuan	1
+美西螈刷怪蛋	mei xi yuan shua guai dan	1
+美西螈桶	mei xi yuan tong	1
+羽毛	yu mao	1
+耐久	nai jiu	1
+耕地	geng di	1
+肋骨盔甲纹饰	lei gu kui jia wen shi	1
+胡萝卜	hu luo bo	1
+胡萝卜钓竿	hu luo bo diao gan	1
+脑纹珊瑚	nao wen shan hu	1
+脑纹珊瑚块	nao wen shan hu kuai	1
+脑纹珊瑚扇	nao wen shan hu shan	1
+脚手架	jiao shou jia	1
+腐肉	fu rou	1
+致密	zhi mi	1
+船	chuan	1
+节肢杀手	jie zhi sha shou	1
+花岗岩	hua gang yan	1
+花岗岩台阶	hua gang yan tai jie	1
+花岗岩墙	hua gang yan qiang	1
+花岗岩楼梯	hua gang yan lou ti	1
+花盆	hua pen	1
+苔石	tai shi	1
+苔石台阶	tai shi tai jie	1
+苔石墙	tai shi qiang	1
+苔石楼梯	tai shi lou ti	1
+苔石砖	tai shi zhuan	1
+苔石砖台阶	tai shi zhuan tai jie	1
+苔石砖墙	tai shi zhuan qiang	1
+苔石砖楼梯	tai shi zhuan lou ti	1
+苔藓块	tai xian kuai	1
+苦力怕	ku li pa	1
+苦力怕刷怪蛋	ku li pa shua guai dan	1
+苦力怕的头	ku li pa de tou	1
+苹果	ping guo	1
+荆棘	jing ji	1
+草	cao	1
+草方块	cao fang kuai	1
+草甸	cao dian	1
+荒野盔甲纹饰	huang ye kui jia wen shi	1
+荧光墨囊	ying guang mo nang	1
+荧光物品展示框	ying guang wu pin zhan shi kuang	1
+荧石	ying shi	1
+荧石粉	ying shi fen	1
+药水	yao shui	1
+药箭	yao jian	1
+菌丝体	jun si ti	1
+菌光体	jun guang ti	1
+营火	ying huo	1
+蒲公英	pu gong ying	1
+蒲公英盆栽	pu gong ying pen zai	1
+蓄风	xu feng	1
+蓄风之箭	xu feng zhi jian	1
+蓄风药水	xu feng yao shui	1
+蓝冰	lan bing	1
+蓝色地毯	lan se di tan	1
+蓝色带釉陶瓦	lan se dai you tao wa	1
+蓝色床	lan se chuang	1
+蓝色旗帜	lan se qi zhi	1
+蓝色染料	lan se ran liao	1
+蓝色染色玻璃	lan se ran se bo li	1
+蓝色染色玻璃板	lan se ran se bo li ban	1
+蓝色混凝土	lan se hun ning tu	1
+蓝色混凝土粉末	lan se hun ning tu fen mo	1
+蓝色潜影盒	lan se qian ying he	1
+蓝色羊毛	lan se yang mao	1
+蓝色蜡烛	lan se la zhu	1
+蓝色陶瓦	lan se tao wa	1
+蓝花美耳草	lan hua mei er cao	1
+蓝花美耳草盆栽	lan hua mei er cao pen zai	1
+蕨	jue	1
+蕨盆栽	jue pen zai	1
+藏宝图	cang bao tu	1
+藤蔓	teng wan	1
+蘑菇岛	mo gu dao	1
+蘑菇柄	mo gu bing	1
+蘑菇煲	mo gu bao	1
+虚弱	xu ruo	1
+虚弱之箭	xu ruo zhi jian	1
+虚弱药水	xu ruo yao shui	1
+虚空	xu kong	1
+虚空空气	xu kong kong qi	1
+虞美人	yu mei ren	1
+虞美人盆栽	yu mei ren pen zai	1
+虫蚀之箭	chong shi zhi jian	1
+虫蚀圆石	chong shi yuan shi	1
+虫蚀深板岩	chong shi shen ban yan	1
+虫蚀石头	chong shi shi tou	1
+虫蚀石砖	chong shi shi zhuan	1
+虫蚀苔石砖	chong shi tai shi zhuan	1
+虫蚀药水	chong shi yao shui	1
+虫蚀裂纹石砖	chong shi lie wen shi zhuan	1
+虫蚀雕纹石砖	chong shi diao wen shi zhuan	1
+蛋糕	dan gao	1
+蜂巢	feng chao	1
+蜂箱	feng xiang	1
+蜂蜜块	feng mi kuai	1
+蜂蜜瓶	feng mi ping	1
+蜘蛛	zhi zhu	1
+蜘蛛刷怪蛋	zhi zhu shua guai dan	1
+蜘蛛眼	zhi zhu yan	1
+蜘蛛网	zhi zhu wang	1
+蜜脾	mi pi	1
+蜜脾块	mi pi kuai	1
+蜜蜂	mi feng	1
+蜜蜂刷怪蛋	mi feng shua guai dan	1
+蜡烛	la zhu	1
+蝌蚪	ke dou	1
+蝌蚪刷怪蛋	ke dou shua guai dan	1
+蝌蚪桶	ke dou tong	1
+蝙蝠	bian fu	1
+蝙蝠刷怪蛋	bian fu shua guai dan	1
+蠹虫	du chong	1
+蠹虫刷怪蛋	du chong shua guai dan	1
+行商羊驼	xing shang yang tuo	1
+行商羊驼刷怪蛋	xing shang yang tuo shua guai dan	1
+被激活的TNT	bei ji huo de TNT	1
+袭击之兆	xi ji zhi zhao	1
+裂纹下界砖块	lie wen xia jie zhuan kuai	1
+裂纹深板岩瓦	lie wen shen ban yan wa	1
+裂纹深板岩砖	lie wen shen ban yan zhuan	1
+裂纹石砖	lie wen shi zhuan	1
+裂纹磨制黑石砖	lie wen mo zhi hei shi zhuan	1
+装有水的炼药锅	zhuang you shui de lian yao guo	1
+装有熔岩的炼药锅	zhuang you rong yan de lian yao guo	1
+装有细雪的炼药锅	zhuang you xi xue de lian yao guo	1
+裸岩山峰	luo yan shan feng	1
+西瓜	xi gua	1
+西瓜片	xi gua pian	1
+西瓜种子	xi gua zhong zi	1
+西瓜茎	xi gua jing	1
+覆地苔藓	fu di tai xian	1
+讲台	jiang tai	1
+试炼之兆	shi lian zhi zhao	1
+试炼刷怪笼	shi lian shua guai long	1
+试炼探险家地图	shi lian tan xian jia di tu	1
+试炼钥匙	shi lian yao shi	1
+诡异木压力板	gui yi mu ya li ban	1
+诡异木台阶	gui yi mu tai jie	1
+诡异木告示牌	gui yi mu gao shi pai	1
+诡异木按钮	gui yi mu an niu	1
+诡异木板	gui yi mu ban	1
+诡异木栅栏	gui yi mu zha lan	1
+诡异木栅栏门	gui yi mu zha lan men	1
+诡异木楼梯	gui yi mu lou ti	1
+诡异木活板门	gui yi mu huo ban men	1
+诡异木门	gui yi mu men	1
+诡异森林	gui yi sen lin	1
+诡异疣块	gui yi you kuai	1
+诡异菌	gui yi jun	1
+诡异菌岩	gui yi jun yan	1
+诡异菌柄	gui yi jun bing	1
+诡异菌核	gui yi jun he	1
+诡异菌盆栽	gui yi jun pen zai	1
+诡异菌索	gui yi jun suo	1
+诡异菌索盆栽	gui yi jun suo pen zai	1
+诡异菌钓竿	gui yi jun diao gan	1
+调试棒	tiao shi bang	1
+谜之炖菜	mi zhi dun cai	1
+豹猫	bao mao	1
+豹猫刷怪蛋	bao mao shua guai dan	1
+赭黄蛙明灯	zhe huang wa ming deng	1
+跳跃之箭	tiao yue zhi jian	1
+跳跃提升	tiao yue ti sheng	1
+跳跃药水	tiao yue yao shui	1
+轻质测重压力板	qing zhi ce zhong ya li ban	1
+迅捷	xun jie	1
+迅捷之箭	xun jie zhi jian	1
+迅捷潜行	xun jie qian xing	1
+迅捷药水	xun jie yao shui	1
+运输矿车	yun shu kuang che	1
+运输竹筏	yun shu zhu fa	1
+运输船	yun shu chuan	1
+远古守卫者	yuan gu shou wei zhe	1
+远古守卫者刷怪蛋	yuan gu shou wei zhe shua guai dan	1
+远古残骸	yuan gu can hai	1
+连锁型命令方块	lian suo xing ming ling fang kuai	1
+迟缓之箭	chi huan zhi jian	1
+迟缓药水	chi huan yao shui	1
+追溯指针	zhui su zhi zhen	1
+遮光玻璃	zhe guang bo li	1
+避雷针	bi lei zhen	1
+酿造台	niang zao tai	1
+采矿纹样陶片	cai kuang wen yang tao pian	1
+重生锚	chong sheng mao	1
+重质测重压力板	zhong zhi ce zhong ya li ban	1
+重锤	zhong chui	1
+金剑	jin jian	1
+金合欢原木	jin he huan yuan mu	1
+金合欢木	jin he huan mu	1
+金合欢木压力板	jin he huan mu ya li ban	1
+金合欢木台阶	jin he huan mu tai jie	1
+金合欢木告示牌	jin he huan mu gao shi pai	1
+金合欢木按钮	jin he huan mu an niu	1
+金合欢木板	jin he huan mu ban	1
+金合欢木栅栏	jin he huan mu zha lan	1
+金合欢木栅栏门	jin he huan mu zha lan men	1
+金合欢木楼梯	jin he huan mu lou ti	1
+金合欢木活板门	jin he huan mu huo ban men	1
+金合欢木船	jin he huan mu chuan	1
+金合欢木运输船	jin he huan mu yun shu chuan	1
+金合欢木门	jin he huan mu men	1
+金合欢树叶	jin he huan shu ye	1
+金合欢树苗	jin he huan shu miao	1
+金合欢树苗盆栽	jin he huan shu miao pen zai	1
+金块	jin kuai	1
+金头盔	jin tou kui	1
+金护腿	jin hu tui	1
+金斧	jin fu	1
+金矿石	jin kuang shi	1
+金粒	jin li	1
+金胡萝卜	jin hu luo bo	1
+金胸甲	jin xiong jia	1
+金苹果	jin ping guo	1
+金锄	jin chu	1
+金锭	jin ding	1
+金锹	jin qiao	1
+金镐	jin gao	1
+金靴子	jin xue zi	1
+金马铠	jin ma kai	1
+针叶林	zhen ye lin	1
+针叶林村庄地图	zhen ye lin cun zhuang di tu	1
+钓鱼竿	diao yu gan	1
+钟	zhong	1
+钻石	zuan shi	1
+钻石剑	zuan shi jian	1
+钻石块	zuan shi kuai	1
+钻石头盔	zuan shi tou kui	1
+钻石护腿	zuan shi hu tui	1
+钻石斧	zuan shi fu	1
+钻石矿石	zuan shi kuang shi	1
+钻石胸甲	zuan shi xiong jia	1
+钻石锄	zuan shi chu	1
+钻石锹	zuan shi qiao	1
+钻石镐	zuan shi gao	1
+钻石靴子	zuan shi xue zi	1
+钻石马铠	zuan shi ma kai	1
+铁傀儡	tie kui lei	1
+铁傀儡刷怪蛋	tie kui lei shua guai dan	1
+铁剑	tie jian	1
+铁块	tie kuai	1
+铁头盔	tie tou kui	1
+铁护腿	tie hu tui	1
+铁斧	tie fu	1
+铁栏杆	tie lan gan	1
+铁桶	tie tong	1
+铁活板门	tie huo ban men	1
+铁矿石	tie kuang shi	1
+铁砧	tie zhen	1
+铁粒	tie li	1
+铁胸甲	tie xiong jia	1
+铁轨	tie gui	1
+铁锄	tie chu	1
+铁锭	tie ding	1
+铁锹	tie qiao	1
+铁镐	tie gao	1
+铁门	tie men	1
+铁靴子	tie xue zi	1
+铁马铠	tie ma kai	1
+铃兰	ling lan	1
+铃兰盆栽	ling lan pen zai	1
+铜块	tong kuai	1
+铜格栅	tong ge zha	1
+铜活板门	tong huo ban men	1
+铜灯	tong deng	1
+铜矿石	tong kuang shi	1
+铜锭	tong ding	1
+铜门	tong men	1
+锁链	suo lian	1
+锁链头盔	suo lian tou kui	1
+锁链护腿	suo lian hu tui	1
+锁链胸甲	suo lian xiong jia	1
+锁链靴子	suo lian xue zi	1
+锈蚀的切制铜台阶	xiu shi de qie zhi tong tai jie	1
+锈蚀的切制铜块	xiu shi de qie zhi tong kuai	1
+锈蚀的切制铜楼梯	xiu shi de qie zhi tong lou ti	1
+锈蚀的铜块	xiu shi de tong kuai	1
+锈蚀的铜格栅	xiu shi de tong ge zha	1
+锈蚀的铜活板门	xiu shi de tong huo ban men	1
+锈蚀的铜灯	xiu shi de tong deng	1
+锈蚀的铜门	xiu shi de tong men	1
+锈蚀的雕纹铜块	xiu shi de diao wen tong kuai	1
+锋利	feng li	1
+锻造台	duan zao tai	1
+锻造模板	duan zao mu ban	1
+镶金黑石	xiang jin hei shi	1
+镶铆盔甲纹饰	xiang mao kui jia wen shi	1
+闪烁的西瓜片	shan shuo de xi gua pian	1
+闪电束	shan dian shu	1
+闪长岩	shan zhang yan	1
+闪长岩台阶	shan zhang yan tai jie	1
+闪长岩墙	shan zhang yan qiang	1
+闪长岩楼梯	shan zhang yan lou ti	1
+阳光探测器	yang guang tan ce qi	1
+附魔之瓶	fu mo zhi ping	1
+附魔书	fu mo shu	1
+附魔台	fu mo tai	1
+附魔金苹果	fu mo jin ping guo	1
+陶瓦	tao wa	1
+陷阱箱	xian jing xiang	1
+隐身	yin shen	1
+隐身之箭	yin shen zhi jian	1
+隐身药水	yin shen yao shui	1
+雇主盔甲纹饰	gu zhu kui jia wen shi	1
+雕刻南瓜	diao ke nan gua	1
+雕纹下界砖块	diao wen xia jie zhuan kuai	1
+雕纹书架	diao wen shu jia	1
+雕纹凝灰岩	diao wen ning hui yan	1
+雕纹凝灰岩砖	diao wen ning hui yan zhuan	1
+雕纹深板岩	diao wen shen ban yan	1
+雕纹石砖	diao wen shi zhuan	1
+雕纹石英块	diao wen shi ying kuai	1
+雕纹砂岩	diao wen sha yan	1
+雕纹磨制黑石	diao wen mo zhi hei shi	1
+雕纹红砂岩	diao wen hong sha yan	1
+雕纹铜块	diao wen tong kuai	1
+雪	xue	1
+雪傀儡	xue kui lei	1
+雪傀儡刷怪蛋	xue kui lei shua guai dan	1
+雪原	xue yuan	1
+雪原村庄地图	xue yuan cun zhuang di tu	1
+雪块	xue kuai	1
+雪林	xue lin	1
+雪球	xue qiu	1
+霉运	mei yun	1
+霜冰	shuang bing	1
+青翠蛙明灯	qing cui wa ming deng	1
+青色地毯	qing se di tan	1
+青色带釉陶瓦	qing se dai you tao wa	1
+青色床	qing se chuang	1
+青色旗帜	qing se qi zhi	1
+青色染料	qing se ran liao	1
+青色染色玻璃	qing se ran se bo li	1
+青色染色玻璃板	qing se ran se bo li ban	1
+青色混凝土	qing se hun ning tu	1
+青色混凝土粉末	qing se hun ning tu fen mo	1
+青色潜影盒	qing se qian ying he	1
+青色羊毛	qing se yang mao	1
+青色蜡烛	qing se la zhu	1
+青色陶瓦	qing se tao wa	1
+青蛙	qing wa	1
+青蛙刷怪蛋	qing wa shua guai dan	1
+青蛙卵	qing wa luan	1
+青金石	qing jin shi	1
+青金石块	qing jin shi kuai	1
+青金石矿石	qing jin shi kuang shi	1
+面包	mian bao	1
+鞍	an	1
+鞘翅	qiao chi	1
+音乐唱片	yin yue chang pian	1
+音符盒	yin fu he	1
+风弹	feng dan	1
+风爆	feng bao	1
+风蚀恶地	feng shi e di	1
+风袭丘陵	feng xi qiu ling	1
+风袭森林	feng xi sen lin	1
+风袭沙砾丘陵	feng xi sha li qiu ling	1
+风袭热带草原	feng xi re dai cao yuan	1
+飘浮	piao fu	1
+飘浮之箭	piao fu zhi jian	1
+飘浮药水	piao fu yao shui	1
+饥饿	ji e	1
+饰纹陶罐	shi wen tao guan	1
+饱和	bao he	1
+饵钓	er diao	1
+马	ma	1
+马刷怪蛋	ma shua guai dan	1
+马铃薯	ma ling shu	1
+驴	lv	1
+驴刷怪蛋	lv shua guai dan	1
+骆驼	luo tuo	1
+骆驼刷怪蛋	luo tuo shua guai dan	1
+骡	luo	1
+骡刷怪蛋	luo shua guai dan	1
+骨块	gu kuai	1
+骨头	gu tou	1
+骨粉	gu fen	1
+骷髅	ku lou	1
+骷髅刷怪蛋	ku lou shua guai dan	1
+骷髅头颅	ku lou tou lu	1
+骷髅马	ku lou ma	1
+骷髅马刷怪蛋	ku lou ma shua guai dan	1
+高海草	gao hai cao	1
+高炉	gao lu	1
+高草丛	gao cao cong	1
+鱿鱼	you yu	1
+鱿鱼刷怪蛋	you yu shua guai dan	1
+鲑鱼	gui yu	1
+鲑鱼刷怪蛋	gui yu shua guai dan	1
+鲑鱼桶	gui yu tong	1
+鳕鱼	xue yu	1
+鳕鱼刷怪蛋	xue yu shua guai dan	1
+鳕鱼桶	xue yu tong	1
+鳞甲	lin jia	1
+鸡	ji	1
+鸡刷怪蛋	ji shua guai dan	1
+鸡蛋	ji dan	1
+鹦鹉	ying wu	1
+鹦鹉刷怪蛋	ying wu shua guai dan	1
+鹦鹉螺壳	ying wu luo ke	1
+鹿角珊瑚	lu jiao shan hu	1
+鹿角珊瑚块	lu jiao shan hu kuai	1
+鹿角珊瑚扇	lu jiao shan hu shan	1
+麦捆纹样陶片	mai kun wen yang tao pian	1
+黄绿色地毯	huang lv se di tan	1
+黄绿色带釉陶瓦	huang lv se dai you tao wa	1
+黄绿色床	huang lv se chuang	1
+黄绿色旗帜	huang lv se qi zhi	1
+黄绿色染料	huang lv se ran liao	1
+黄绿色染色玻璃	huang lv se ran se bo li	1
+黄绿色染色玻璃板	huang lv se ran se bo li ban	1
+黄绿色混凝土	huang lv se hun ning tu	1
+黄绿色混凝土粉末	huang lv se hun ning tu fen mo	1
+黄绿色潜影盒	huang lv se qian ying he	1
+黄绿色羊毛	huang lv se yang mao	1
+黄绿色蜡烛	huang lv se la zhu	1
+黄绿色陶瓦	huang lv se tao wa	1
+黄色地毯	huang se di tan	1
+黄色带釉陶瓦	huang se dai you tao wa	1
+黄色床	huang se chuang	1
+黄色旗帜	huang se qi zhi	1
+黄色染料	huang se ran liao	1
+黄色染色玻璃	huang se ran se bo li	1
+黄色染色玻璃板	huang se ran se bo li ban	1
+黄色混凝土	huang se hun ning tu	1
+黄色混凝土粉末	huang se hun ning tu fen mo	1
+黄色潜影盒	huang se qian ying he	1
+黄色羊毛	huang se yang mao	1
+黄色蜡烛	huang se la zhu	1
+黄色陶瓦	huang se tao wa	1
+黏土	nian tu	1
+黏土球	nian tu qiu	1
+黏性活塞	nian xing huo sai	1
+黏液块	nian ye kuai	1
+黏液球	nian ye qiu	1
+黑暗	hei an	1
+黑曜石	hei yao shi	1
+黑森林	hei sen lin	1
+黑石	hei shi	1
+黑石台阶	hei shi tai jie	1
+黑石墙	hei shi qiang	1
+黑石楼梯	hei shi lou ti	1
+黑色地毯	hei se di tan	1
+黑色带釉陶瓦	hei se dai you tao wa	1
+黑色床	hei se chuang	1
+黑色旗帜	hei se qi zhi	1
+黑色染料	hei se ran liao	1
+黑色染色玻璃	hei se ran se bo li	1
+黑色染色玻璃板	hei se ran se bo li ban	1
+黑色混凝土	hei se hun ning tu	1
+黑色混凝土粉末	hei se hun ning tu fen mo	1
+黑色潜影盒	hei se qian ying he	1
+黑色羊毛	hei se yang mao	1
+黑色蜡烛	hei se la zhu	1
+黑色陶瓦	hei se tao wa	1
+龙息	long xi	1
+龙蛋	long dan	1
+龙首	long shou	1
