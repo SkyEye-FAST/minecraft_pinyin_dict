@@ -2,16 +2,22 @@
 """Minecraft拼音词库生成器"""
 
 import json
+from pathlib import Path
 from typing import TypeAlias, Dict
 
 from pypinyin import lazy_pinyin, load_phrases_dict
 from pypinyin_dict.phrase_pinyin_data import cc_cedict, di
 
-from base import P, LANG_DIR_VALID
+# 当前绝对路径
+P = Path(__file__).resolve().parent
+
+# 语言文件文件夹
+LANG_DIR = P / "mc_lang"
+LANG_DIR_FULL = LANG_DIR / "full"
+LANG_DIR_VALID = LANG_DIR / "valid"
 
 # 类型别名
 Ldata: TypeAlias = Dict[str, str]
-
 
 # 初始化pypinyin
 cc_cedict.load()
