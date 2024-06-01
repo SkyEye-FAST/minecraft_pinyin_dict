@@ -2,8 +2,9 @@
 """Minecraft拼音词库生成器"""
 
 import json
+import csv
 from pathlib import Path
-from typing import TypeAlias, Dict
+from typing import TypeAlias, Dict, List
 
 from pypinyin import lazy_pinyin, load_phrases_dict
 from pypinyin_dict.phrase_pinyin_data import cc_cedict, di
@@ -11,10 +12,13 @@ from pypinyin_dict.phrase_pinyin_data import cc_cedict, di
 # 当前绝对路径
 P = Path(__file__).resolve().parent
 
-# 语言文件文件夹
+# 文件夹
 LANG_DIR = P / "mc_lang"
 LANG_DIR_FULL = LANG_DIR / "full"
 LANG_DIR_VALID = LANG_DIR / "valid"
+OUTPUT_DIR = P / "output"
+
+OUTPUT_DIR.mkdir(exist_ok=True)
 
 # 类型别名
 Ldata: TypeAlias = Dict[str, str]
@@ -30,11 +34,14 @@ load_phrases_dict({k: [[_] for _ in v.split()] for k, v in phrases.items()})
 with open(LANG_DIR_VALID / "zh_cn.json", "r", encoding="utf-8") as f:
     data: Ldata = json.load(f)
 
-values = sorted(list(set(data.values())))
-values.remove("TNT")
-values.remove("TNT矿车")
+# 处理语言文件数据
+data_list: List[str] = [v for k, v in data.items() if not k.startswith("advancement")]
+unique_values: List[str] = sorted(set(data_list))
+exclude_values = {"TNT", "TNT矿车"}
+values: List[str] = [v for v in unique_values if v not in exclude_values]
 
-with open(P / "dict.txt", "w", encoding="utf-8") as f:
-    f.writelines(
-        f"{element}\t{" ".join(lazy_pinyin(element))}\t1\n" for element in values
-    )
+# 写入拼音词库文件
+with open(OUTPUT_DIR / "Rime.txt", "w", encoding="utf-8", newline="") as f:
+    writer = csv.writer(f, delimiter="\t")
+    for element in values:
+        writer.writerow([element, " ".join(lazy_pinyin(element)), 1])
