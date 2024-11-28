@@ -38,6 +38,7 @@
 不祥之兆	bu xiang zhi zhao	1
 不祥之物生成器	bu xiang zhi wu sheng cheng qi	1
 不祥之瓶	bu xiang zhi ping	1
+不祥旗帜	bu xiang qi zhi	1
 不祥试炼钥匙	bu xiang shi lian yao shi	1
 丛林	cong lin	1
 丛林原木	cong lin yuan mu	1
@@ -198,6 +199,8 @@
 去皮红树木	qu pi hong shu mu	1
 去皮绯红菌柄	qu pi fei hong jun bing	1
 去皮绯红菌核	qu pi fei hong jun he	1
+去皮苍白橡木	qu pi cang bai xiang mu	1
+去皮苍白橡木原木	qu pi cang bai xiang mu yuan mu	1
 去皮诡异菌柄	qu pi gui yi jun bing	1
 去皮诡异菌核	qu pi gui yi jun he	1
 去皮金合欢原木	qu pi jin he huan yuan mu	1
@@ -227,6 +230,7 @@
 品红色地毯	pin hong se di tan	1
 品红色带釉陶瓦	pin hong se dai you tao wa	1
 品红色床	pin hong se chuang	1
+品红色收纳袋	pin hong se shou na dai	1
 品红色旗帜	pin hong se qi zhi	1
 品红色染料	pin hong se ran liao	1
 品红色染色玻璃	pin hong se ran se bo li	1
@@ -277,6 +281,9 @@
 嗅探兽刷怪蛋	xiu tan shou shua guai dan	1
 嗅探兽蛋	xiu tan shou dan	1
 嗅探纹样陶片	xiu tan wen yang tao pian	1
+嘎枝	ga zhi	1
+嘎枝之心	ga zhi zhi xin	1
+嘎枝刷怪蛋	ga zhi shua guai dan	1
 回响碎片	hui xiang sui pian	1
 圆石	yuan shi	1
 圆石台阶	yuan shi tai jie	1
@@ -309,6 +316,7 @@
 墙上的悬挂式竹告示牌	qiang shang de xuan gua shi zhu gao shi pai	1
 墙上的悬挂式红树木告示牌	qiang shang de xuan gua shi hong shu mu gao shi pai	1
 墙上的悬挂式绯红木告示牌	qiang shang de xuan gua shi fei hong mu gao shi pai	1
+墙上的悬挂式苍白橡木告示牌	qiang shang de xuan gua shi cang bai xiang mu gao shi pai	1
 墙上的悬挂式诡异木告示牌	qiang shang de xuan gua shi gui yi mu gao shi pai	1
 墙上的悬挂式金合欢木告示牌	qiang shang de xuan gua shi jin he huan mu gao shi pai	1
 墙上的樱花木告示牌	qiang shang de ying hua mu gao shi pai	1
@@ -327,6 +335,7 @@
 墙上的红石火把	qiang shang de hong shi huo ba	1
 墙上的绯红木告示牌	qiang shang de fei hong mu gao shi pai	1
 墙上的脑纹珊瑚扇	qiang shang de nao wen shan hu shan	1
+墙上的苍白橡木告示牌	qiang shang de cang bai xiang mu gao shi pai	1
 墙上的苦力怕的头	qiang shang de ku li pa de tou	1
 墙上的诡异木告示牌	qiang shang de gui yi mu gao shi pai	1
 墙上的金合欢木告示牌	qiang shang de jin he huan mu gao shi pai	1
@@ -427,6 +436,8 @@
 弓	gong	1
 弓箭纹样陶片	gong jian wen yang tao pian	1
 引雷	yin lei	1
+张开的眼眸花	zhang kai de yan mou hua	1
+张开的眼眸花盆栽	zhang kai de yan mou hua pen zai	1
 弩	nu	1
 弹射物保护	tan she wu bao hu	1
 强化深板岩	qiang hua shen ban yan	1
@@ -453,6 +464,7 @@
 悬挂式竹告示牌	xuan gua shi zhu gao shi pai	1
 悬挂式红树木告示牌	xuan gua shi hong shu mu gao shi pai	1
 悬挂式绯红木告示牌	xuan gua shi fei hong mu gao shi pai	1
+悬挂式苍白橡木告示牌	xuan gua shi cang bai xiang mu gao shi pai	1
 悬挂式诡异木告示牌	xuan gua shi gui yi mu gao shi pai	1
 悬挂式金合欢木告示牌	xuan gua shi jin he huan mu gao shi pai	1
 悲恸纹样陶片	bei tong wen yang tao pian	1
@@ -570,6 +582,13 @@
 枯萎的灌木盆栽	ku wei de guan mu pen zai	1
 标记	biao ji	1
 标靶	biao ba	1
+树脂团	shu zhi tuan	1
+树脂块	shu zhi kuai	1
+树脂砖	shu zhi zhuan	1
+树脂砖台阶	shu zhi zhuan tai jie	1
+树脂砖块	shu zhi zhuan kuai	1
+树脂砖墙	shu zhi zhuan qiang	1
+树脂砖楼梯	shu zhi zhuan lou ti	1
 树荫纹样陶片	shu yin wen yang tao pian	1
 校频幽匿感测体	jiao pin you ni gan ce ti	1
 桦木森林	hua mu sen lin	1
@@ -577,6 +596,7 @@
 棕色地毯	zong se di tan	1
 棕色带釉陶瓦	zong se dai you tao wa	1
 棕色床	zong se chuang	1
+棕色收纳袋	zong se shou na dai	1
 棕色旗帜	zong se qi zhi	1
 棕色染料	zong se ran liao	1
 棕色染色玻璃	zong se ran se bo li	1
@@ -613,6 +633,7 @@
 橙色地毯	cheng se di tan	1
 橙色带釉陶瓦	cheng se dai you tao wa	1
 橙色床	cheng se chuang	1
+橙色收纳袋	cheng se shou na dai	1
 橙色旗帜	cheng se qi zhi	1
 橙色染料	cheng se ran liao	1
 橙色染色玻璃	cheng se ran se bo li	1
@@ -681,6 +702,7 @@
 沼骸	zhao hai	1
 沼骸刷怪蛋	zhao hai shua guai dan	1
 沾泥的红树根	zhan ni de hong shu gen	1
+波纹边旗帜图案	bo wen bian qi zhi tu an	1
 泥土	ni tu	1
 泥坯	ni pi	1
 泥巴	ni ba	1
@@ -772,6 +794,7 @@
 淡灰色地毯	dan hui se di tan	1
 淡灰色带釉陶瓦	dan hui se dai you tao wa	1
 淡灰色床	dan hui se chuang	1
+淡灰色收纳袋	dan hui se shou na dai	1
 淡灰色旗帜	dan hui se qi zhi	1
 淡灰色染料	dan hui se ran liao	1
 淡灰色染色玻璃	dan hui se ran se bo li	1
@@ -785,6 +808,7 @@
 淡蓝色地毯	dan lan se di tan	1
 淡蓝色带釉陶瓦	dan lan se dai you tao wa	1
 淡蓝色床	dan lan se chuang	1
+淡蓝色收纳袋	dan lan se shou na dai	1
 淡蓝色旗帜	dan lan se qi zhi	1
 淡蓝色染料	dan lan se ran liao	1
 淡蓝色染色玻璃	dan lan se ran se bo li	1
@@ -907,6 +931,7 @@
 灰色地毯	hui se di tan	1
 灰色带釉陶瓦	hui se dai you tao wa	1
 灰色床	hui se chuang	1
+灰色收纳袋	hui se shou na dai	1
 灰色旗帜	hui se qi zhi	1
 灰色染料	hui se ran liao	1
 灰色染色玻璃	hui se ran se bo li	1
@@ -925,7 +950,6 @@
 灵魂灯笼	ling hun deng long	1
 灵魂疾行	ling hun ji xing	1
 灵魂营火	ling hun ying huo	1
-灾厄旗帜	zai e qi zhi	1
 炼药锅	lian yao guo	1
 炽足兽	chi zu shou	1
 炽足兽刷怪蛋	chi zu shou shua guai dan	1
@@ -1041,6 +1065,7 @@
 白色地毯	bai se di tan	1
 白色带釉陶瓦	bai se dai you tao wa	1
 白色床	bai se chuang	1
+白色收纳袋	bai se shou na dai	1
 白色旗帜	bai se qi zhi	1
 白色染料	bai se ran liao	1
 白色染色玻璃	bai se ran se bo li	1
@@ -1106,6 +1131,7 @@
 砂岩墙	sha yan qiang	1
 砂岩楼梯	sha yan lou ti	1
 砂轮	sha lun	1
+砖纹旗帜图案	zhuan wen qi zhi tu an	1
 破甲	po jia	1
 碗	wan	1
 磁石	ci shi	1
@@ -1176,6 +1202,7 @@
 粉红色地毯	fen hong se di tan	1
 粉红色带釉陶瓦	fen hong se dai you tao wa	1
 粉红色床	fen hong se chuang	1
+粉红色收纳袋	fen hong se shou na dai	1
 粉红色旗帜	fen hong se qi zhi	1
 粉红色染料	fen hong se ran liao	1
 粉红色染色玻璃	fen hong se ran se bo li	1
@@ -1209,6 +1236,7 @@
 紫色地毯	zi se di tan	1
 紫色带釉陶瓦	zi se dai you tao wa	1
 紫色床	zi se chuang	1
+紫色收纳袋	zi se shou na dai	1
 紫色旗帜	zi se qi zhi	1
 紫色染料	zi se ran liao	1
 紫色染色玻璃	zi se ran se bo li	1
@@ -1268,6 +1296,7 @@
 红色地毯	hong se di tan	1
 红色带釉陶瓦	hong se dai you tao wa	1
 红色床	hong se chuang	1
+红色收纳袋	hong se shou na dai	1
 红色旗帜	hong se qi zhi	1
 红色染料	hong se ran liao	1
 红色染色玻璃	hong se ran se bo li	1
@@ -1325,6 +1354,7 @@
 绿色地毯	lv se di tan	1
 绿色带釉陶瓦	lv se dai you tao wa	1
 绿色床	lv se chuang	1
+绿色收纳袋	lv se shou na dai	1
 绿色旗帜	lv se qi zhi	1
 绿色染料	lv se ran liao	1
 绿色染色玻璃	lv se ran se bo li	1
@@ -1367,6 +1397,27 @@
 花岗岩墙	hua gang yan qiang	1
 花岗岩楼梯	hua gang yan lou ti	1
 花盆	hua pen	1
+苍白之园	cang bai zhi yuan	1
+苍白垂须	cang bai chui xu	1
+苍白橡木	cang bai xiang mu	1
+苍白橡木压力板	cang bai xiang mu ya li ban	1
+苍白橡木原木	cang bai xiang mu yuan mu	1
+苍白橡木台阶	cang bai xiang mu tai jie	1
+苍白橡木告示牌	cang bai xiang mu gao shi pai	1
+苍白橡木按钮	cang bai xiang mu an niu	1
+苍白橡木木板	cang bai xiang mu mu ban	1
+苍白橡木栅栏	cang bai xiang mu zha lan	1
+苍白橡木栅栏门	cang bai xiang mu zha lan men	1
+苍白橡木楼梯	cang bai xiang mu lou ti	1
+苍白橡木活板门	cang bai xiang mu huo ban men	1
+苍白橡木船	cang bai xiang mu chuan	1
+苍白橡木运输船	cang bai xiang mu yun shu chuan	1
+苍白橡木门	cang bai xiang mu men	1
+苍白橡树树叶	cang bai xiang shu shu ye	1
+苍白橡树树苗	cang bai xiang shu shu miao	1
+苍白橡树树苗盆栽	cang bai xiang shu shu miao pen zai	1
+苍白苔藓块	cang bai tai xian kuai	1
+苍白覆地苔藓	cang bai fu di tai xian	1
 苔石	tai shi	1
 苔石台阶	tai shi tai jie	1
 苔石墙	tai shi qiang	1
@@ -1403,6 +1454,7 @@
 蓝色地毯	lan se di tan	1
 蓝色带釉陶瓦	lan se dai you tao wa	1
 蓝色床	lan se chuang	1
+蓝色收纳袋	lan se shou na dai	1
 蓝色旗帜	lan se qi zhi	1
 蓝色染料	lan se ran liao	1
 蓝色染色玻璃	lan se ran se bo li	1
@@ -1638,6 +1690,8 @@
 闪长岩台阶	shan zhang yan tai jie	1
 闪长岩墙	shan zhang yan qiang	1
 闪长岩楼梯	shan zhang yan lou ti	1
+闭合的眼眸花	bi he de yan mou hua	1
+闭合的眼眸花盆栽	bi he de yan mou hua pen zai	1
 阳光探测器	yang guang tan ce qi	1
 附魔之瓶	fu mo zhi ping	1
 附魔书	fu mo shu	1
@@ -1654,6 +1708,7 @@
 雕纹书架	diao wen shu jia	1
 雕纹凝灰岩	diao wen ning hui yan	1
 雕纹凝灰岩砖	diao wen ning hui yan zhuan	1
+雕纹树脂砖块	diao wen shu zhi zhuan kuai	1
 雕纹深板岩	diao wen shen ban yan	1
 雕纹石砖	diao wen shi zhuan	1
 雕纹石英块	diao wen shi ying kuai	1
@@ -1675,6 +1730,7 @@
 青色地毯	qing se di tan	1
 青色带釉陶瓦	qing se dai you tao wa	1
 青色床	qing se chuang	1
+青色收纳袋	qing se shou na dai	1
 青色旗帜	qing se qi zhi	1
 青色染料	qing se ran liao	1
 青色染色玻璃	qing se ran se bo li	1
@@ -1752,6 +1808,7 @@
 黄绿色地毯	huang lv se di tan	1
 黄绿色带釉陶瓦	huang lv se dai you tao wa	1
 黄绿色床	huang lv se chuang	1
+黄绿色收纳袋	huang lv se shou na dai	1
 黄绿色旗帜	huang lv se qi zhi	1
 黄绿色染料	huang lv se ran liao	1
 黄绿色染色玻璃	huang lv se ran se bo li	1
@@ -1765,6 +1822,7 @@
 黄色地毯	huang se di tan	1
 黄色带釉陶瓦	huang se dai you tao wa	1
 黄色床	huang se chuang	1
+黄色收纳袋	huang se shou na dai	1
 黄色旗帜	huang se qi zhi	1
 黄色染料	huang se ran liao	1
 黄色染色玻璃	huang se ran se bo li	1
@@ -1790,6 +1848,7 @@
 黑色地毯	hei se di tan	1
 黑色带釉陶瓦	hei se dai you tao wa	1
 黑色床	hei se chuang	1
+黑色收纳袋	hei se shou na dai	1
 黑色旗帜	hei se qi zhi	1
 黑色染料	hei se ran liao	1
 黑色染色玻璃	hei se ran se bo li	1
