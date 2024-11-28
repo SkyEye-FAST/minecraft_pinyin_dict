@@ -36,9 +36,8 @@ with open(LANG_DIR_VALID / "zh_cn.json", "r", encoding="utf-8") as f:
 
 # 处理语言文件数据
 data_list: List[str] = [v for k, v in data.items() if not k.startswith("advancement")]
-unique_values: List[str] = sorted(set(data_list))
 exclude_values = {"TNT", "TNT矿车"}
-values: List[str] = [v for v in unique_values if v not in exclude_values]
+values: List[str] = [v for v in sorted(set(data_list)) if v not in exclude_values]
 
 # 写入拼音词库文件
 with open(OUTPUT_DIR / "Rime.txt", "w", encoding="utf-8", newline="") as f:
