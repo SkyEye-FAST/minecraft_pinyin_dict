@@ -35,8 +35,12 @@ with open(LANG_DIR_VALID / "zh_cn.json", "r", encoding="utf-8") as f:
     data: Ldata = json.load(f)
 
 # 处理语言文件数据
-data_list: List[str] = [v for k, v in data.items() if not k.startswith("advancement")]
-exclude_values = {"TNT", "TNT矿车"}
+data_list: List[str] = [
+    v
+    for v in data.values()
+    if all(_ not in v for _ in "？！。，、；：“”‘’《》0123456789")
+]
+exclude_values = {"TNT", "TNT矿车", "Minecraft"}
 values: List[str] = [v for v in sorted(set(data_list)) if v not in exclude_values]
 
 # 写入拼音词库文件

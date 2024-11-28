@@ -1,5 +1,9 @@
+一箭双雕	yi jian shuang diao	1
 丁香	ding xiang	1
 三叉戟	san cha ji	1
+上天入地	shang tian ru di	1
+下一世代	xia yi shi dai	1
+下界	xia jie	1
 下界之星	xia jie zhi xing	1
 下界传送门	xia jie chuan song men	1
 下界合金剑	xia jie he jin jian	1
@@ -40,6 +44,8 @@
 不祥之瓶	bu xiang zhi ping	1
 不祥旗帜	bu xiang qi zhi	1
 不祥试炼钥匙	bu xiang shi lian yao shi	1
+与火共舞	yu huo gong wu	1
+与蜂共舞	yu feng gong wu	1
 丛林	cong lin	1
 丛林原木	cong lin yuan mu	1
 丛林探险家地图	cong lin tan xian jia di tu	1
@@ -61,6 +67,7 @@
 丛林树苗盆栽	cong lin shu miao pen zai	1
 中型紫晶芽	zhong xing zi jing ya	1
 中毒	zhong du	1
+举巢搬迁	ju chao ban qian	1
 举臂纹样陶片	ju bi wen yang tao pian	1
 书	shu	1
 书与笔	shu yu bi	1
@@ -89,10 +96,12 @@
 伤害之箭	shang hai zhi jian	1
 伤害吸收	shang hai xi shou	1
 伤害药水	shang hai yao shui	1
+你需要来点薄荷糖	ni xu yao lai dian bo he tang	1
 佳酿纹样陶片	jia niang wen yang tao pian	1
 侦测器	zhen ce qi	1
 保护	bao hu	1
 信标	xin biao	1
+信标工程师	xin biao gong cheng shi	1
 僵尸	jiang shi	1
 僵尸刷怪蛋	jiang shi shua guai dan	1
 僵尸村民	jiang shi cun min	1
@@ -102,10 +111,12 @@
 僵尸疣猪兽	jiang shi you zhu shou	1
 僵尸疣猪兽刷怪蛋	jiang shi you zhu shou shua guai dan	1
 僵尸的头	jiang shi de tou	1
+僵尸科医生	jiang shi ke yi sheng	1
 僵尸马	jiang shi ma	1
 僵尸马刷怪蛋	jiang shi ma shua guai dan	1
 光源方块	guang yuan fang kuai	1
 光灵箭	guang ling jian	1
+光辉岁月	guang hui sui yue	1
 兔子	tu zi	1
 兔子刷怪蛋	tu zi shua guai dan	1
 兔子皮	tu zi pi	1
@@ -115,10 +126,13 @@
 兰花盆栽	lan hua pen zai	1
 再生之箭	zai sheng zhi jian	1
 再生药水	zai sheng yao shui	1
+冒险	mao xian	1
+农牧业	nong mu ye	1
 冰	bing	1
 冰冻深海	bing dong shen hai	1
 冰刺之地	bing ci zhi di	1
 冰封山峰	bing feng shan feng	1
+冰桶挑战	bing tong tiao zhan	1
 冰霜行者	bing shuang xing zhe	1
 冲击	chong ji	1
 冷水海洋	leng shui hai yang	1
@@ -134,6 +148,7 @@
 凋灵骷髅刷怪蛋	diao ling ku lou shua guai dan	1
 凋灵骷髅头颅	diao ling ku lou tou lu	1
 凋零	diao ling	1
+凋零山庄	diao ling shan zhuang	1
 凝灰岩	ning hui yan	1
 凝灰岩台阶	ning hui yan tai jie	1
 凝灰岩墙	ning hui yan qiang	1
@@ -168,9 +183,13 @@
 动力铁轨	dong li tie gui	1
 劫掠兽	jie lve shou	1
 劫掠兽刷怪蛋	jie lve shou shua guai dan	1
+劲弩手	jin nu shou	1
+勇往直下	yong wang zhi xia	1
 北极熊	bei ji xiong	1
 北极熊刷怪蛋	bei ji xiong shua guai dan	1
+匠心独具	jiang xin du ju	1
 区域效果云	qu yu xiao guo yun	1
+华丽一剪	hua li yi jian	1
 南瓜	nan gua	1
 南瓜派	nan gua pai	1
 南瓜灯	nan gua deng	1
@@ -220,10 +239,12 @@
 史莱姆	shi lai mu	1
 史莱姆刷怪蛋	shi lai mu shua guai dan	1
 合成器	he cheng qi	1
+合成器合成合成器	he cheng qi he cheng he cheng qi	1
 向导盔甲纹饰	xiang dao kui jia wen shi	1
 向日葵	xiang ri kui	1
 向日葵平原	xiang ri kui ping yuan	1
 告示牌	gao shi pai	1
+呱呱队出动	gua gua dui chu dong	1
 命令方块	ming ling fang kuai	1
 命令方块矿车	ming ling fang kuai kuang che	1
 命名牌	ming ming pai	1
@@ -290,7 +311,9 @@
 圆石墙	yuan shi qiang	1
 圆石楼梯	yuan shi lou ti	1
 土径	tu jing	1
+在游戏尽头的城市	zai you xi jin tou de cheng shi	1
 地图	di tu	1
+均衡饮食	jun heng yin shi	1
 垂根	chui gen	1
 垂泪藤	chui lei teng	1
 垂泪藤植株	chui lei teng zhi zhu	1
@@ -351,6 +374,9 @@
 大型垂滴叶茎	da xing chui di ye jing	1
 大型紫晶芽	da xing zi jing ya	1
 大型蕨	da xing jue	1
+天涯共此石	tian ya gong ci shi	1
+天空即为极限	tian kong ji wei ji xian	1
+天赐良击	tian ci liang ji	1
 失明	shi ming	1
 失活的气泡珊瑚	shi huo de qi pao shan hu	1
 失活的气泡珊瑚块	shi huo de qi pao shan hu kuai	1
@@ -372,17 +398,21 @@
 女巫刷怪蛋	nv wu shua guai dan	1
 奶桶	nai tong	1
 孢子花	bao zi hua	1
+它蔓延了	ta man yan le	1
 守卫者	shou wei zhe	1
 守卫者刷怪蛋	shou wei zhe shua guai dan	1
 安山岩	an shan yan	1
 安山岩台阶	an shan yan tai jie	1
 安山岩墙	an shan yan qiang	1
 安山岩楼梯	an shan yan lou ti	1
+完好如初	wan hao ru chu	1
 宝库	bao ku	1
+宝经磨炼	bao jing mo lian	1
 寄生	ji sheng	1
 富饶纹样陶片	fu rao wen yang tao pian	1
 小型垂滴叶	xiao xing chui di ye	1
 小型紫晶芽	xiao xing zi jing ya	1
+小小嗅探兽	xiao xiao xiu tan shou	1
 小火球	xiao huo qiu	1
 小麦	xiao mai	1
 小麦植株	xiao mai zhi zhu	1
@@ -401,6 +431,7 @@
 岩浆膏	yan jiang gao	1
 工作台	gong zuo tai	1
 巨人	ju ren	1
+带信标回家	dai xin biao hui jia	1
 干海带	gan hai dai	1
 干海带块	gan hai dai kuai	1
 干草捆	gan cao kun	1
@@ -432,6 +463,7 @@
 幽匿感测体	you ni gan ce ti	1
 幽匿脉络	you ni mai luo	1
 幽静盔甲纹饰	you jing kui jia wen shi	1
+开荒垦地	kai huang ken di	1
 开裂的铁砧	kai lie de tie zhen	1
 弓	gong	1
 弓箭纹样陶片	gong jian wen yang tao pian	1
@@ -446,6 +478,8 @@
 忠诚	zhong cheng	1
 快速装填	kuai su zhuang tian	1
 急迫	ji po	1
+怪味蛋	guai wei dan	1
+怪物猎人	guai wu lie ren	1
 恶地	e di	1
 恶魂	e hun	1
 恶魂之泪	e hun zhi lei	1
@@ -468,15 +502,23 @@
 悬挂式诡异木告示牌	xuan gua shi gui yi mu gao shi pai	1
 悬挂式金合欢木告示牌	xuan gua shi jin he huan mu gao shi pai	1
 悲恸纹样陶片	bei tong wen yang tao pian	1
+惊悚恐怖骷髅头	jing song kong bu ku lou tou	1
 成书	cheng shu	1
+成双成对	cheng shuang cheng dui	1
+战术性钓鱼	zhan shu xing diao yu	1
+战猪	zhan zhu	1
 打火石	da huo shi	1
+扣下悬刀	kou xia xuan dao	1
+找到一个好朋友	zhao dao yi ge hao peng you	1
 投掷器	tou zhi qi	1
+抖包袱	dou bao fu	1
 抗性提升	kang xing ti sheng	1
 抗火	kang huo	1
 抗火之箭	kang huo zhi jian	1
 抗火药水	kang huo yao shui	1
 抢夺	qiang duo	1
 拉杆	la gan	1
+招募援兵	zhao mu yuan bing	1
 拴绳	shuan sheng	1
 拴绳结	shuan sheng jie	1
 拼图方块	pin tu fang kuai	1
@@ -486,7 +528,9 @@
 损坏的铁砧	sun huai de tie zhen	1
 掠夺者	lve duo zhe	1
 掠夺者刷怪蛋	lve duo zhe shua guai dan	1
+探古寻源	tan gu xun yuan	1
 探测铁轨	tan ce tie gui	1
+探索的时光	tan suo de shi guang	1
 探险纹样陶片	tan xian wen yang tao pian	1
 掷出的末影珍珠	zhi chu de mo ying zhen zhu	1
 掷出的附魔之瓶	zhi chu de fu mo zhi ping	1
@@ -509,8 +553,10 @@
 插上黄色蜡烛的蛋糕	cha shang huang se la zhu de dan gao	1
 插上黑色蜡烛的蛋糕	cha shang hei se la zhu de dan gao	1
 摔落缓冲	shuai luo huan chong	1
+播种往事	bo zhong wang shi	1
 收纳袋	shou na dai	1
 效率	xiao lv	1
+整装上阵	zheng zhuang shang zhen	1
 文本展示实体	wen ben zhan shi shi ti	1
 斑驳的切制铜台阶	ban bo de qie zhi tong tai jie	1
 斑驳的切制铜块	ban bo de qie zhi tong kuai	1
@@ -529,13 +575,17 @@
 旋风纹样陶片	xuan feng wen yang tao pian	1
 旗帜图案	qi zhi tu an	1
 无限	wu xian	1
+旧貌锻新颜	jiu mao duan xin yan	1
 时运	shi yun	1
 时钟	shi zhong	1
+星际商人	xing ji shang ren	1
 暖水海洋	nuan shui hai yang	1
 暗海晶石	an hai jing shi	1
 暗海晶石台阶	an hai jing shi tai jie	1
 暗海晶石楼梯	an hai jing shi lou ti	1
 曲奇	qu qi	1
+曲速泡	qu su pao	1
+最萌捕食者	zui meng bu shi zhe	1
 望远镜	wang yuan jing	1
 木剑	mu jian	1
 木斧	mu fu	1
@@ -570,6 +620,7 @@
 末影龙	mo ying long	1
 末影龙刷怪蛋	mo ying long shua guai dan	1
 末影龙火球	mo ying long huo qiu	1
+本地酿造厂	ben di niang zao chang	1
 杀手兔	sha shou tu	1
 村庄英雄	cun zhuang ying xiong	1
 村民	cun min	1
@@ -577,6 +628,7 @@
 杜鹃树叶	du juan shu ye	1
 杜鹃花丛	du juan hua cong	1
 杜鹃花丛盆栽	du juan hua cong pen zai	1
+来硬的	lai ying de	1
 林地探险家地图	lin di tan xian jia di tu	1
 枯萎的灌木	ku wei de guan mu	1
 枯萎的灌木盆栽	ku wei de guan mu pen zai	1
@@ -663,6 +715,8 @@
 橡树树叶	xiang shu shu ye	1
 橡树树苗	xiang shu shu miao	1
 橡树树苗盆栽	xiang shu shu miao pen zai	1
+正中靶心	zheng zhong ba xin	1
+残骸裹身	can hai guo shen	1
 毒马铃薯	du ma ling shu	1
 气泡柱	qi pao zhu	1
 气泡珊瑚	qi pao shan hu	1
@@ -684,6 +738,7 @@
 水瓶	shui ping	1
 水肺之箭	shui fei zhi jian	1
 水肺药水	shui fei yao shui	1
+永恒的伙伴	yong heng de huo ban	1
 沉重核心	chen zhong he xin	1
 沙丘盔甲纹饰	sha qiu kui jia wen shi	1
 沙子	sha zi	1
@@ -752,6 +807,7 @@
 海龟壳	hai gui ke	1
 海龟蛋	hai gui dan	1
 海龟鳞甲	hai gui lin jia	1
+涂蜡	tu la	1
 涂蜡的切制铜台阶	tu la de qie zhi tong tai jie	1
 涂蜡的切制铜块	tu la de qie zhi tong kuai	1
 涂蜡的切制铜楼梯	tu la de qie zhi tong lou ti	1
@@ -860,9 +916,11 @@
 深色橡树树叶	shen se xiang shu shu ye	1
 深色橡树树苗	shen se xiang shu shu miao	1
 深色橡树树苗盆栽	shen se xiang shu shu miao pen zai	1
+深藏不露	shen cang bu lu	1
 渗浆	shen jiang	1
 渗浆之箭	shen jiang zhi jian	1
 渗浆药水	shen jiang yao shui	1
+温暖如家	wen nuan ru jia	1
 温水海洋	wen shui hai yang	1
 温水深海	wen shui shen hai	1
 湿海绵	shi hai mian	1
@@ -968,6 +1026,8 @@
 热带鱼	re dai yu	1
 热带鱼刷怪蛋	re dai yu shua guai dan	1
 热带鱼桶	re dai yu tong	1
+热腾腾的	re teng teng de	1
+热门景点	re men jing dian	1
 煤炭	mei tan	1
 煤炭块	mei tan kuai	1
 煤矿石	mei kuang shi	1
@@ -997,8 +1057,10 @@
 犰狳	qiu yu	1
 犰狳刷怪蛋	qiu yu shua guai dan	1
 犰狳鳞甲	qiu yu lin jia	1
+狂乱的鸡尾酒	kuang luan de ji wei jiu	1
 狐狸	hu li	1
 狐狸刷怪蛋	hu li shua guai dan	1
+狙击手的对决	ju ji shou de dui jue	1
 狼	lang	1
 狼刷怪蛋	lang shua guai dan	1
 狼嚎纹样陶片	lang hao wen yang tao pian	1
@@ -1022,6 +1084,7 @@
 玻璃板	bo li ban	1
 玻璃瓶	bo li ping	1
 珍宝纹样陶片	zhen bao wen yang tao pian	1
+珍藏密敛	zhen cang mi lian	1
 珠光蛙明灯	zhu guang wa ming deng	1
 瓶子草	ping zi cao	1
 瓶子草植株	ping zi cao zhi zhu	1
@@ -1032,16 +1095,20 @@
 甜菜根	tian cai gen	1
 甜菜汤	tian cai tang	1
 甜菜种子	tian cai zhong zi	1
+甜蜜的梦	tian mi de meng	1
 生兔肉	sheng tu rou	1
 生命恢复	sheng ming hui fu	1
 生命提升	sheng ming ti sheng	1
+生日快乐歌	sheng ri kuai le ge	1
 生牛肉	sheng niu rou	1
 生猪排	sheng zhu pai	1
 生羊肉	sheng yang rou	1
 生鲑鱼	sheng gui yu	1
 生鳕鱼	sheng xue yu	1
 生鸡肉	sheng ji rou	1
+电涌保护器	dian yong bao hu qi	1
 画	hua	1
+画船添足	hua chuan tian zu	1
 疏林恶地	shu lin e di	1
 疣猪兽	you zhu shou	1
 疣猪兽刷怪蛋	you zhu shou shua guai dan	1
@@ -1078,6 +1145,7 @@
 白色郁金香	bai se yu jin xiang	1
 白色郁金香盆栽	bai se yu jin xiang pen zai	1
 白色陶瓦	bai se tao wa	1
+百猫全书	bai mao quan shu	1
 皮革	pi ge	1
 皮革外套	pi ge wai tao	1
 皮革帽子	pi ge mao zi	1
@@ -1097,14 +1165,17 @@
 盾牌	dun pai	1
 眼眸盔甲纹饰	yan mou kui jia wen shi	1
 睡莲	shui lian	1
+瞄准目标	miao zhun mu biao	1
 瞬间伤害	shun jian shang hai	1
 瞬间治疗	shun jian zhi liao	1
 矢车菊	shi che ju	1
 矢车菊盆栽	shi che ju pen zai	1
 知识之书	zhi shi zhi shu	1
+知识就是力量	zhi shi jiu shi li liang	1
 矮草丛	ai cao cong	1
 石剑	shi jian	1
 石化橡木台阶	shi hua xiang mu tai jie	1
+石器时代	shi qi shi dai	1
 石头	shi tou	1
 石头压力板	shi tou ya li ban	1
 石头台阶	shi tou tai jie	1
@@ -1223,6 +1294,7 @@
 粗铁块	cu tie kuai	1
 粗铜	cu tong	1
 粗铜块	cu tong kuai	1
+精修细补	jing xiu xi bu	1
 精准采集	jing zhun cai ji	1
 糖	tang	1
 紫水晶块	zi shui jing kuai	1
@@ -1317,6 +1389,7 @@
 细雪	xi xue	1
 细雪桶	xi xue tong	1
 织布机	zhi bu ji	1
+终极奉献	zhong ji feng xian	1
 绊线	ban xian	1
 绊线钩	ban xian gou	1
 经验修补	jing yan xiu bu	1
@@ -1324,6 +1397,7 @@
 绑定诅咒	bang ding zu zhou	1
 绒球葱	rong qiu cong	1
 绒球葱盆栽	rong qiu cong pen zai	1
+结束了…再一次…	jie shu le … zai yi ci …	1
 结构方块	jie gou fang kuai	1
 结构空位	jie gou kong wei	1
 结果的南瓜茎	jie guo de nan gua jing	1
@@ -1378,17 +1452,23 @@
 美西螈	mei xi yuan	1
 美西螈刷怪蛋	mei xi yuan shua guai dan	1
 美西螈桶	mei xi yuan tong	1
+群狼聚首	qun lang ju shou	1
 羽毛	yu mao	1
 耐久	nai jiu	1
 耕地	geng di	1
 肋骨盔甲纹饰	lei gu kui jia wen shi	1
 胡萝卜	hu luo bo	1
 胡萝卜钓竿	hu luo bo diao gan	1
+胶着状态	jiao zhuo zhuang tai	1
+脆弱的同盟	cui ruo de tong meng	1
 脑纹珊瑚	nao wen shan hu	1
 脑纹珊瑚块	nao wen shan hu kuai	1
 脑纹珊瑚扇	nao wen shan hu shan	1
 脚手架	jiao shou jia	1
+脱蜡	tuo la	1
 腐肉	fu rou	1
+腥味十足的生意	xing wei shi zu de sheng yi	1
+自我放逐	zi wo fang zhu	1
 致密	zhi mi	1
 船	chuan	1
 节肢杀手	jie zhi sha shou	1
@@ -1442,6 +1522,7 @@
 荧石粉	ying shi fen	1
 药水	yao shui	1
 药箭	yao jian	1
+获得升级	huo de sheng ji	1
 菌丝体	jun si ti	1
 菌光体	jun guang ti	1
 营火	ying huo	1
@@ -1490,6 +1571,7 @@
 虫蚀药水	chong shi yao shui	1
 虫蚀裂纹石砖	chong shi lie wen shi zhuan	1
 虫蚀雕纹石砖	chong shi diao wen shi zhuan	1
+蚪到桶里来	dou dao tong li lai	1
 蛋糕	dan gao	1
 蜂巢	feng chao	1
 蜂箱	feng xiang	1
@@ -1529,6 +1611,8 @@
 西瓜种子	xi gua zhong zi	1
 西瓜茎	xi gua jing	1
 覆地苔藓	fu di tai xian	1
+见鬼去吧	jian gui qu ba	1
+解放末地	jie fang mo di	1
 讲台	jiang tai	1
 试炼之兆	shi lian zhi zhao	1
 试炼刷怪笼	shi lian shua guai long	1
@@ -1558,10 +1642,13 @@
 谜之炖菜	mi zhi dun cai	1
 豹猫	bao mao	1
 豹猫刷怪蛋	bao mao shua guai dan	1
+资深怪物猎人	zi shen guai wu lie ren	1
 赭黄蛙明灯	zhe huang wa ming deng	1
+超越生死	chao yue sheng si	1
 跳跃之箭	tiao yue zhi jian	1
 跳跃提升	tiao yue ti sheng	1
 跳跃药水	tiao yue yao shui	1
+轻功雪上飘	qing gong xue shang piao	1
 轻质测重压力板	qing zhi ce zhong ya li ban	1
 迅捷	xun jie	1
 迅捷之箭	xun jie zhi jian	1
@@ -1570,13 +1657,17 @@
 运输矿车	yun shu kuang che	1
 运输竹筏	yun shu zhu fa	1
 运输船	yun shu chuan	1
+这上面的风景不错	zhe shang mian de feng jing bu cuo	1
+这不是铁镐么	zhe bu shi tie gao me	1
 远古守卫者	yuan gu shou wei zhe	1
 远古守卫者刷怪蛋	yuan gu shou wei zhe shua guai dan	1
 远古残骸	yuan gu can hai	1
+远程折跃	yuan cheng zhe yue	1
 连锁型命令方块	lian suo xing ming ling fang kuai	1
 迟缓之箭	chi huan zhi jian	1
 迟缓药水	chi huan yao shui	1
 追溯指针	zhui su zhi zhen	1
+逆风翻盘	ni feng fan pan	1
 遮光玻璃	zhe guang bo li	1
 避雷针	bi lei zhen	1
 酿造台	niang zao tai	1
@@ -1584,6 +1675,7 @@
 重生锚	chong sheng mao	1
 重质测重压力板	zhong zhi ce zhong ya li ban	1
 重锤	zhong chui	1
+金光闪闪	jin guang shan shan	1
 金剑	jin jian	1
 金合欢原木	jin he huan yuan mu	1
 金合欢木	jin he huan mu	1
@@ -1625,6 +1717,7 @@
 钻石剑	zuan shi jian	1
 钻石块	zuan shi kuai	1
 钻石头盔	zuan shi tou kui	1
+钻石护体	zuan shi hu ti	1
 钻石护腿	zuan shi hu tui	1
 钻石斧	zuan shi fu	1
 钻石矿石	zuan shi kuang shi	1
@@ -1658,6 +1751,7 @@
 铁马铠	tie ma kai	1
 铃兰	ling lan	1
 铃兰盆栽	ling lan pen zai	1
+铜光焕发	tong guang huan fa	1
 铜块	tong kuai	1
 铜格栅	tong ge zha	1
 铜活板门	tong huo ban men	1
@@ -1680,6 +1774,7 @@
 锈蚀的铜门	xiu shi de tong men	1
 锈蚀的雕纹铜块	xiu shi de diao wen tong kuai	1
 锋利	feng li	1
+锚没有九条命	mao mei you jiu tiao ming	1
 锻造台	duan zao tai	1
 锻造模板	duan zao mu ban	1
 镶金黑石	xiang jin hei shi	1
@@ -1693,15 +1788,18 @@
 闭合的眼眸花	bi he de yan mou hua	1
 闭合的眼眸花盆栽	bi he de yan mou hua pen zai	1
 阳光探测器	yang guang tan ce qi	1
+阴森的要塞	yin sen de yao sai	1
 附魔之瓶	fu mo zhi ping	1
 附魔书	fu mo shu	1
 附魔台	fu mo tai	1
+附魔师	fu mo shi	1
 附魔金苹果	fu mo jin ping guo	1
 陶瓦	tao wa	1
 陷阱箱	xian jing xiang	1
 隐身	yin shen	1
 隐身之箭	yin shen zhi jian	1
 隐身药水	yin shen yao shui	1
+隔墙有眼	ge qiang you yan	1
 雇主盔甲纹饰	gu zhu kui jia wen shi	1
 雕刻南瓜	diao ke nan gua	1
 雕纹下界砖块	diao wen xia jie zhuan kuai	1
@@ -1750,6 +1848,7 @@
 面包	mian bao	1
 鞍	an	1
 鞘翅	qiao chi	1
+音乐之声	yin yue zhi sheng	1
 音乐唱片	yin yue chang pian	1
 音符盒	yin fu he	1
 风弹	feng dan	1
@@ -1786,6 +1885,7 @@
 高海草	gao hai cao	1
 高炉	gao lu	1
 高草丛	gao cao cong	1
+魔女审判	mo nv shen pan	1
 鱿鱼	you yu	1
 鱿鱼刷怪蛋	you yu shua guai dan	1
 鲑鱼	gui yu	1
