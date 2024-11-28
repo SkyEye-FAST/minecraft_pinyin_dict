@@ -38,6 +38,7 @@
 'bu'xiang'zhi'zhao 不祥之兆
 'bu'xiang'zhi'wu'sheng'cheng'qi 不祥之物生成器
 'bu'xiang'zhi'ping 不祥之瓶
+'bu'xiang'qi'zhi 不祥旗帜
 'bu'xiang'shi'lian'yao'shi 不祥试炼钥匙
 'cong'lin 丛林
 'cong'lin'yuan'mu 丛林原木
@@ -198,6 +199,8 @@
 'qu'pi'hong'shu'mu 去皮红树木
 'qu'pi'fei'hong'jun'bing 去皮绯红菌柄
 'qu'pi'fei'hong'jun'he 去皮绯红菌核
+'qu'pi'cang'bai'xiang'mu 去皮苍白橡木
+'qu'pi'cang'bai'xiang'mu'yuan'mu 去皮苍白橡木原木
 'qu'pi'gui'yi'jun'bing 去皮诡异菌柄
 'qu'pi'gui'yi'jun'he 去皮诡异菌核
 'qu'pi'jin'he'huan'yuan'mu 去皮金合欢原木
@@ -227,6 +230,7 @@
 'pin'hong'se'di'tan 品红色地毯
 'pin'hong'se'dai'you'tao'wa 品红色带釉陶瓦
 'pin'hong'se'chuang 品红色床
+'pin'hong'se'shou'na'dai 品红色收纳袋
 'pin'hong'se'qi'zhi 品红色旗帜
 'pin'hong'se'ran'liao 品红色染料
 'pin'hong'se'ran'se'bo'li 品红色染色玻璃
@@ -277,6 +281,9 @@
 'xiu'tan'shou'shua'guai'dan 嗅探兽刷怪蛋
 'xiu'tan'shou'dan 嗅探兽蛋
 'xiu'tan'wen'yang'tao'pian 嗅探纹样陶片
+'ga'zhi 嘎枝
+'ga'zhi'zhi'xin 嘎枝之心
+'ga'zhi'shua'guai'dan 嘎枝刷怪蛋
 'hui'xiang'sui'pian 回响碎片
 'yuan'shi 圆石
 'yuan'shi'tai'jie 圆石台阶
@@ -309,6 +316,7 @@
 'qiang'shang'de'xuan'gua'shi'zhu'gao'shi'pai 墙上的悬挂式竹告示牌
 'qiang'shang'de'xuan'gua'shi'hong'shu'mu'gao'shi'pai 墙上的悬挂式红树木告示牌
 'qiang'shang'de'xuan'gua'shi'fei'hong'mu'gao'shi'pai 墙上的悬挂式绯红木告示牌
+'qiang'shang'de'xuan'gua'shi'cang'bai'xiang'mu'gao'shi'pai 墙上的悬挂式苍白橡木告示牌
 'qiang'shang'de'xuan'gua'shi'gui'yi'mu'gao'shi'pai 墙上的悬挂式诡异木告示牌
 'qiang'shang'de'xuan'gua'shi'jin'he'huan'mu'gao'shi'pai 墙上的悬挂式金合欢木告示牌
 'qiang'shang'de'ying'hua'mu'gao'shi'pai 墙上的樱花木告示牌
@@ -327,6 +335,7 @@
 'qiang'shang'de'hong'shi'huo'ba 墙上的红石火把
 'qiang'shang'de'fei'hong'mu'gao'shi'pai 墙上的绯红木告示牌
 'qiang'shang'de'nao'wen'shan'hu'shan 墙上的脑纹珊瑚扇
+'qiang'shang'de'cang'bai'xiang'mu'gao'shi'pai 墙上的苍白橡木告示牌
 'qiang'shang'de'ku'li'pa'de'tou 墙上的苦力怕的头
 'qiang'shang'de'gui'yi'mu'gao'shi'pai 墙上的诡异木告示牌
 'qiang'shang'de'jin'he'huan'mu'gao'shi'pai 墙上的金合欢木告示牌
@@ -427,6 +436,8 @@
 'gong 弓
 'gong'jian'wen'yang'tao'pian 弓箭纹样陶片
 'yin'lei 引雷
+'zhang'kai'de'yan'mou'hua 张开的眼眸花
+'zhang'kai'de'yan'mou'hua'pen'zai 张开的眼眸花盆栽
 'nu 弩
 'tan'she'wu'bao'hu 弹射物保护
 'qiang'hua'shen'ban'yan 强化深板岩
@@ -453,6 +464,7 @@
 'xuan'gua'shi'zhu'gao'shi'pai 悬挂式竹告示牌
 'xuan'gua'shi'hong'shu'mu'gao'shi'pai 悬挂式红树木告示牌
 'xuan'gua'shi'fei'hong'mu'gao'shi'pai 悬挂式绯红木告示牌
+'xuan'gua'shi'cang'bai'xiang'mu'gao'shi'pai 悬挂式苍白橡木告示牌
 'xuan'gua'shi'gui'yi'mu'gao'shi'pai 悬挂式诡异木告示牌
 'xuan'gua'shi'jin'he'huan'mu'gao'shi'pai 悬挂式金合欢木告示牌
 'bei'tong'wen'yang'tao'pian 悲恸纹样陶片
@@ -570,6 +582,13 @@
 'ku'wei'de'guan'mu'pen'zai 枯萎的灌木盆栽
 'biao'ji 标记
 'biao'ba 标靶
+'shu'zhi'tuan 树脂团
+'shu'zhi'kuai 树脂块
+'shu'zhi'zhuan 树脂砖
+'shu'zhi'zhuan'tai'jie 树脂砖台阶
+'shu'zhi'zhuan'kuai 树脂砖块
+'shu'zhi'zhuan'qiang 树脂砖墙
+'shu'zhi'zhuan'lou'ti 树脂砖楼梯
 'shu'yin'wen'yang'tao'pian 树荫纹样陶片
 'jiao'pin'you'ni'gan'ce'ti 校频幽匿感测体
 'hua'mu'sen'lin 桦木森林
@@ -577,6 +596,7 @@
 'zong'se'di'tan 棕色地毯
 'zong'se'dai'you'tao'wa 棕色带釉陶瓦
 'zong'se'chuang 棕色床
+'zong'se'shou'na'dai 棕色收纳袋
 'zong'se'qi'zhi 棕色旗帜
 'zong'se'ran'liao 棕色染料
 'zong'se'ran'se'bo'li 棕色染色玻璃
@@ -613,6 +633,7 @@
 'cheng'se'di'tan 橙色地毯
 'cheng'se'dai'you'tao'wa 橙色带釉陶瓦
 'cheng'se'chuang 橙色床
+'cheng'se'shou'na'dai 橙色收纳袋
 'cheng'se'qi'zhi 橙色旗帜
 'cheng'se'ran'liao 橙色染料
 'cheng'se'ran'se'bo'li 橙色染色玻璃
@@ -681,6 +702,7 @@
 'zhao'hai 沼骸
 'zhao'hai'shua'guai'dan 沼骸刷怪蛋
 'zhan'ni'de'hong'shu'gen 沾泥的红树根
+'bo'wen'bian'qi'zhi'tu'an 波纹边旗帜图案
 'ni'tu 泥土
 'ni'pi 泥坯
 'ni'ba 泥巴
@@ -772,6 +794,7 @@
 'dan'hui'se'di'tan 淡灰色地毯
 'dan'hui'se'dai'you'tao'wa 淡灰色带釉陶瓦
 'dan'hui'se'chuang 淡灰色床
+'dan'hui'se'shou'na'dai 淡灰色收纳袋
 'dan'hui'se'qi'zhi 淡灰色旗帜
 'dan'hui'se'ran'liao 淡灰色染料
 'dan'hui'se'ran'se'bo'li 淡灰色染色玻璃
@@ -785,6 +808,7 @@
 'dan'lan'se'di'tan 淡蓝色地毯
 'dan'lan'se'dai'you'tao'wa 淡蓝色带釉陶瓦
 'dan'lan'se'chuang 淡蓝色床
+'dan'lan'se'shou'na'dai 淡蓝色收纳袋
 'dan'lan'se'qi'zhi 淡蓝色旗帜
 'dan'lan'se'ran'liao 淡蓝色染料
 'dan'lan'se'ran'se'bo'li 淡蓝色染色玻璃
@@ -907,6 +931,7 @@
 'hui'se'di'tan 灰色地毯
 'hui'se'dai'you'tao'wa 灰色带釉陶瓦
 'hui'se'chuang 灰色床
+'hui'se'shou'na'dai 灰色收纳袋
 'hui'se'qi'zhi 灰色旗帜
 'hui'se'ran'liao 灰色染料
 'hui'se'ran'se'bo'li 灰色染色玻璃
@@ -925,7 +950,6 @@
 'ling'hun'deng'long 灵魂灯笼
 'ling'hun'ji'xing 灵魂疾行
 'ling'hun'ying'huo 灵魂营火
-'zai'e'qi'zhi 灾厄旗帜
 'lian'yao'guo 炼药锅
 'chi'zu'shou 炽足兽
 'chi'zu'shou'shua'guai'dan 炽足兽刷怪蛋
@@ -1041,6 +1065,7 @@
 'bai'se'di'tan 白色地毯
 'bai'se'dai'you'tao'wa 白色带釉陶瓦
 'bai'se'chuang 白色床
+'bai'se'shou'na'dai 白色收纳袋
 'bai'se'qi'zhi 白色旗帜
 'bai'se'ran'liao 白色染料
 'bai'se'ran'se'bo'li 白色染色玻璃
@@ -1106,6 +1131,7 @@
 'sha'yan'qiang 砂岩墙
 'sha'yan'lou'ti 砂岩楼梯
 'sha'lun 砂轮
+'zhuan'wen'qi'zhi'tu'an 砖纹旗帜图案
 'po'jia 破甲
 'wan 碗
 'ci'shi 磁石
@@ -1176,6 +1202,7 @@
 'fen'hong'se'di'tan 粉红色地毯
 'fen'hong'se'dai'you'tao'wa 粉红色带釉陶瓦
 'fen'hong'se'chuang 粉红色床
+'fen'hong'se'shou'na'dai 粉红色收纳袋
 'fen'hong'se'qi'zhi 粉红色旗帜
 'fen'hong'se'ran'liao 粉红色染料
 'fen'hong'se'ran'se'bo'li 粉红色染色玻璃
@@ -1209,6 +1236,7 @@
 'zi'se'di'tan 紫色地毯
 'zi'se'dai'you'tao'wa 紫色带釉陶瓦
 'zi'se'chuang 紫色床
+'zi'se'shou'na'dai 紫色收纳袋
 'zi'se'qi'zhi 紫色旗帜
 'zi'se'ran'liao 紫色染料
 'zi'se'ran'se'bo'li 紫色染色玻璃
@@ -1268,6 +1296,7 @@
 'hong'se'di'tan 红色地毯
 'hong'se'dai'you'tao'wa 红色带釉陶瓦
 'hong'se'chuang 红色床
+'hong'se'shou'na'dai 红色收纳袋
 'hong'se'qi'zhi 红色旗帜
 'hong'se'ran'liao 红色染料
 'hong'se'ran'se'bo'li 红色染色玻璃
@@ -1325,6 +1354,7 @@
 'lv'se'di'tan 绿色地毯
 'lv'se'dai'you'tao'wa 绿色带釉陶瓦
 'lv'se'chuang 绿色床
+'lv'se'shou'na'dai 绿色收纳袋
 'lv'se'qi'zhi 绿色旗帜
 'lv'se'ran'liao 绿色染料
 'lv'se'ran'se'bo'li 绿色染色玻璃
@@ -1367,6 +1397,27 @@
 'hua'gang'yan'qiang 花岗岩墙
 'hua'gang'yan'lou'ti 花岗岩楼梯
 'hua'pen 花盆
+'cang'bai'zhi'yuan 苍白之园
+'cang'bai'chui'xu 苍白垂须
+'cang'bai'xiang'mu 苍白橡木
+'cang'bai'xiang'mu'ya'li'ban 苍白橡木压力板
+'cang'bai'xiang'mu'yuan'mu 苍白橡木原木
+'cang'bai'xiang'mu'tai'jie 苍白橡木台阶
+'cang'bai'xiang'mu'gao'shi'pai 苍白橡木告示牌
+'cang'bai'xiang'mu'an'niu 苍白橡木按钮
+'cang'bai'xiang'mu'mu'ban 苍白橡木木板
+'cang'bai'xiang'mu'zha'lan 苍白橡木栅栏
+'cang'bai'xiang'mu'zha'lan'men 苍白橡木栅栏门
+'cang'bai'xiang'mu'lou'ti 苍白橡木楼梯
+'cang'bai'xiang'mu'huo'ban'men 苍白橡木活板门
+'cang'bai'xiang'mu'chuan 苍白橡木船
+'cang'bai'xiang'mu'yun'shu'chuan 苍白橡木运输船
+'cang'bai'xiang'mu'men 苍白橡木门
+'cang'bai'xiang'shu'shu'ye 苍白橡树树叶
+'cang'bai'xiang'shu'shu'miao 苍白橡树树苗
+'cang'bai'xiang'shu'shu'miao'pen'zai 苍白橡树树苗盆栽
+'cang'bai'tai'xian'kuai 苍白苔藓块
+'cang'bai'fu'di'tai'xian 苍白覆地苔藓
 'tai'shi 苔石
 'tai'shi'tai'jie 苔石台阶
 'tai'shi'qiang 苔石墙
@@ -1403,6 +1454,7 @@
 'lan'se'di'tan 蓝色地毯
 'lan'se'dai'you'tao'wa 蓝色带釉陶瓦
 'lan'se'chuang 蓝色床
+'lan'se'shou'na'dai 蓝色收纳袋
 'lan'se'qi'zhi 蓝色旗帜
 'lan'se'ran'liao 蓝色染料
 'lan'se'ran'se'bo'li 蓝色染色玻璃
@@ -1638,6 +1690,8 @@
 'shan'zhang'yan'tai'jie 闪长岩台阶
 'shan'zhang'yan'qiang 闪长岩墙
 'shan'zhang'yan'lou'ti 闪长岩楼梯
+'bi'he'de'yan'mou'hua 闭合的眼眸花
+'bi'he'de'yan'mou'hua'pen'zai 闭合的眼眸花盆栽
 'yang'guang'tan'ce'qi 阳光探测器
 'fu'mo'zhi'ping 附魔之瓶
 'fu'mo'shu 附魔书
@@ -1654,6 +1708,7 @@
 'diao'wen'shu'jia 雕纹书架
 'diao'wen'ning'hui'yan 雕纹凝灰岩
 'diao'wen'ning'hui'yan'zhuan 雕纹凝灰岩砖
+'diao'wen'shu'zhi'zhuan'kuai 雕纹树脂砖块
 'diao'wen'shen'ban'yan 雕纹深板岩
 'diao'wen'shi'zhuan 雕纹石砖
 'diao'wen'shi'ying'kuai 雕纹石英块
@@ -1675,6 +1730,7 @@
 'qing'se'di'tan 青色地毯
 'qing'se'dai'you'tao'wa 青色带釉陶瓦
 'qing'se'chuang 青色床
+'qing'se'shou'na'dai 青色收纳袋
 'qing'se'qi'zhi 青色旗帜
 'qing'se'ran'liao 青色染料
 'qing'se'ran'se'bo'li 青色染色玻璃
@@ -1752,6 +1808,7 @@
 'huang'lv'se'di'tan 黄绿色地毯
 'huang'lv'se'dai'you'tao'wa 黄绿色带釉陶瓦
 'huang'lv'se'chuang 黄绿色床
+'huang'lv'se'shou'na'dai 黄绿色收纳袋
 'huang'lv'se'qi'zhi 黄绿色旗帜
 'huang'lv'se'ran'liao 黄绿色染料
 'huang'lv'se'ran'se'bo'li 黄绿色染色玻璃
@@ -1765,6 +1822,7 @@
 'huang'se'di'tan 黄色地毯
 'huang'se'dai'you'tao'wa 黄色带釉陶瓦
 'huang'se'chuang 黄色床
+'huang'se'shou'na'dai 黄色收纳袋
 'huang'se'qi'zhi 黄色旗帜
 'huang'se'ran'liao 黄色染料
 'huang'se'ran'se'bo'li 黄色染色玻璃
@@ -1790,6 +1848,7 @@
 'hei'se'di'tan 黑色地毯
 'hei'se'dai'you'tao'wa 黑色带釉陶瓦
 'hei'se'chuang 黑色床
+'hei'se'shou'na'dai 黑色收纳袋
 'hei'se'qi'zhi 黑色旗帜
 'hei'se'ran'liao 黑色染料
 'hei'se'ran'se'bo'li 黑色染色玻璃
